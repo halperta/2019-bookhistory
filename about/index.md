@@ -11,7 +11,7 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/ -->
 ---
 
-# Instructors
+<!-- # Instructors
 
 ## Neil Safier
 He, Him, His | Please call me Dr. Safier \\
@@ -38,7 +38,7 @@ Office Hours: TK
 Bio TK
 
 
-# Course Description
+# Course Description -->
 
 This course surveys the history of book production in the early modern world (1400-1800), from the invention of moveable type in Asia to the development of printing in Europe and across the Americas, as circulation of the printed codex grew in tandem with global imperial expansion. Taught at the John Carter Brown Library with access to the Library’s world-class collection of Americana, we will examine the book trade, the early years of book production in Latin America and the Philippines, and the broader place of books, maps, and printed materials in colonial American life in the Northern and Southern hemispheres. 
 
