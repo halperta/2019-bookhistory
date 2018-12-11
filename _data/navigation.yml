@@ -1,0 +1,28 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+
+# - title: Instructors
+#   url: /instructors/
+
+- title: Schedule
+  url: /schedule/
+
+- title: Assignments
+  url: /assignments/
+
+- title: Resources
+  url: /resources/
+
+# - title: Tutorials
+#   url: /tutorials/
+
+# - title: Theme Setup
+#   url: /theme-setup/
+
+- title: Reviews
+  url: /blog/
+
+- title: Search
+  url: /search/
