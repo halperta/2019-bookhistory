@@ -14,11 +14,14 @@ There are four major assignments for this course, described in detail below.
 In addition, you are expected to complete weekly assignments, attend class regularly, and participate in discussions and workshops. This will significantly enhance your learning but will not be policed. We place the responsibility for learning in your hands.
 
 
-# Assignment 1: Rare Book Description (700-900 words)
-Option 1: Imagine the JCB is trying to make its collections more accessible to blind users by creating “user guides” for working with rare books. Blind or vision-impaired users can listen to an audio guide that will narrate the various features they encounter as they work through the book. Your task is to write the script for the audio guide based on a book selected from the Primary Source List.
+# Assignment 1: Rare Book Description 
+## Option 1: Book Guide
+Imagine the JCB is trying to make its collections more accessible to blind users by creating “user guides” for working with rare books. Blind or vision-impaired users can listen to an audio guide that will narrate the various features they encounter as they work through the book. Your task is to write the script for the audio guide based on a book selected from the Primary Source List.
 
-Option 2: Imagine the JCB is trying to sell parts of its collection, and making a catalogue of objects for sale. Your task is to write a narrative description of a book that you have chosen from the Primary Source List in a way that will convince readers to bid on the book.
+## Option 2: Dealer's Description
+Imagine the JCB is trying to sell parts of its collection, and making a catalogue of objects for sale. Your task is to write a narrative description of a book that you have chosen from the Primary Source List in a way that will convince readers to bid on the book.
 
+## Requirements
 Regardless of the option you choose, you must include the following:
 * Title
 * Bibliographic Description
