@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Critical Digital Archives
+title: History of the Book in the Americas and Beyond
 locale: en_US
-description: Fall 2018, University of Texas at Austin
+description: Spring 2019, Brown University
 logo: aas_coin.png
 # baseurl: /criticalarchives #comment out when testing.
-url: https://halperta.github.io/criticalarchives
+url: https://halperta.github.io/2019-bookhistory
 # url: http://localhost:4000/ 
 
 # Jekyll configuration
@@ -42,7 +42,7 @@ comments: true
 owner:
   name: Hannah Alpert-Abrams
   avatar: HannahRed.jpg
-  email: h.alpert-abrams@austin.utexas.edu
+  email: halperta@brown.edu
   # disqus-shortname: sosimpletheme
   twitter: hralperta
   # facebook: michaelrose
