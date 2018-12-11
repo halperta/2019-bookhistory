@@ -74,10 +74,10 @@ All readings are available either through the links on this website, or through 
   </tr>
 
   <tr bgcolor="#FFDEEB">
-    <th rowspan="5">February 18, 2019 (Unit 1)</th>
+    <th rowspan="1">February 18, 2019 (Unit 1)</th>
       <td> No Class: MLK Day </td>
-      <td rowspan="5"> </td>
-      <td rowspan="5"> </td>
+      <td rowspan="1"> </td>
+      <td rowspan="1"> </td>
   </tr>
 <!--   <tr bgcolor="EBF5FB">
     <td align="left"><a href=""> 2 </a></td>
