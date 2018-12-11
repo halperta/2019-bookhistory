@@ -21,7 +21,7 @@ Imagine the JCB is trying to make its collections more accessible to blind users
 *Option 2: Dealer's Description*  
 Imagine the JCB is trying to sell parts of its collection, and making a catalogue of objects for sale. Your task is to write a narrative description of a book that you have chosen from the Primary Source List in a way that will convince readers to bid on the book.
 
-## Requirements
+*Requirements*
 Regardless of the option you choose, you must include the following:
 * Title
 * Bibliographic Description
