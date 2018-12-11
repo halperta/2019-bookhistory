@@ -7,7 +7,6 @@ excerpt:
 * TOC
 {:toc}
 
-# Assignments
 
 There are four major assignments for this course, described in detail below. 
 
