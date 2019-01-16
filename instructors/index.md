@@ -10,7 +10,7 @@ E-mail: neil_safier@brown.edu
 Office: TBD  
 Office Hours: TBD  
 
-BIO TK
+Neil Safier is the Beatrice and Julio Mario Santo Domingo Director and Librarian of the John Carter Brown Library and Associate Professor in the Department of History at Brown University. He received his Ph.D. from the Johns Hopkins University and has held teaching and research appointments at the University of Michigan, the University of Pennsylvania, and most recently at the University of British Columbia, Vancouver. He is the author of Measuring the New World: Enlightenment Science and South America (Chicago, 2008; paperback edition, 2012). His current research relates to the environmental and ethnographic history of the Amazon River basin and the Atlantic world during the age of revolutions. 
 
 ## Hannah Alpert-Abrams 
 she, her, hers | please call me Hannah \\
@@ -26,4 +26,4 @@ E-mail: stijn_vanrossem@brown.edu
 Office: TK  
 Office Hours: TK  
 
-Bio TK
+My primary areas of expertise are book history, graphic design, and curatorship. I graduated from KU Leuven with Masters degrees in History and Education, and in 2014, I completed my PhD in History at the University of Antwerp with a dissertation on the publishing strategies of the Verdussen family, printers in Antwerp from 1589 to 1689, for which I received the Menno Hertzberger Encouragement Award in 2015. In 2014, I had the honor to chair the international conference of the Society for the History of Authorship, Reading and Publishing held in Antwerp.
