@@ -16,7 +16,7 @@ All readings are available either through the links on this website, or through 
   </tr>
 
   <tr bgcolor="#EBF5FB">
-    <th rowspan="5">January 28, 2019 (Unit 1)</th>
+    <th rowspan="5">January 28, 2019 (Unit 1) <br> Topic: Whose history of the book? </th>
       <td> 1. </td>
       <td rowspan="5"> </td>
       <td rowspan="5">   </td>
@@ -284,7 +284,7 @@ All readings are available either through the links on this website, or through 
 
   <tr bgcolor="LightGray">
     <th rowspan="1">May 6, 2019 (Unit 3)</th>
-    <td> Exhibit Workday </td>
+    <td> Group Presentations </td>
     <td rowspan="1"> </td>
     <td rowspan="1"> </td>
   </tr>
