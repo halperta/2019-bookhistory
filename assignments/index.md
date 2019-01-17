@@ -40,10 +40,14 @@ Regardless of the option you choose, you must include the following. Note that y
 	* Marginalia & ownership marks.
 	* A suggestion of 2-3 books from the JCB collection that the patron might consult next. These books should have something material in common with the book you described, either because of where they were printed, who printed them, or how they were made.  The books you choose should not be from the list we provided.
 	In addition to describing these details, you might also address: texture, smell, affect (the emotion that the book evokes), damage, anything that is weird or unusual.
+
+
 <br><a/>
 <br>
 *Evaluation*  
 To be discussed during class. 
+
+
 <br>
 <br>
 *Resources*  
@@ -86,6 +90,8 @@ For this assignment, you will work as part of a team of four people to develop s
 * Selecting the order of the books and the features of each book that you want to display. Remember that visitors might move sequentially through the exhibit, or randomly enter in the middle.
 * Writing a curator’s note for your collection: 1-2 pages total that provides background information for your part of the exhibit and explains how it fits into the broader theme.
 * Presenting your work in the form of an “exhibition show and tell” on the final day of class and incorporating feedback into revised exhibit labels.
+
+
 <br><a/>
 <br>
 *Individual Responsibilities*
