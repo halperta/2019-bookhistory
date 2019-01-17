@@ -24,10 +24,10 @@ For this assignment, you are responsible for choosing one sentence or phrase fro
 # Assignment 1: Rare Book Description 
 *Option 1: Book Guide*  
 Imagine the JCB is trying to make its digital collections more accessible to blind users by creating “user guides” for working with rare books. Blind or vision-impaired users can listen to an audio guide that will narrate the various features they encounter as they work through the book. Your task is to write the script for the audio guide based on a book selected from the Primary Source List.
-<br>
+<br><br>
 *Option 2: Dealer's Description*   
 Imagine you are working for a book dealer who wants to sell a book similar to one that the JCB already has in its collection. Your task is to write a narrative description of the book you have chosen from the Primary Source List in a way that will convince readers to pay the (high?) price the dealer is asking for the book.
-<br>
+<br><br>
 *Requirements*  
 Regardless of the option you choose, you must include the following. Note that you won't be able to find all of this information for every book. Do your best! Start by collecting information from the JCB's online catalogue entry for the book. Then, refer to the resources below.
 * Title
@@ -67,7 +67,7 @@ Imagine the class is curating a digital exhibit, and you have been asked to prod
 * Much like the first assignment, you are not required to make an argument in this piece. Instead, you are synthesizing information from secondary sources to explain the context of the book.  Your post should have short paragraphs, subheadings, a bibliography, and some recommendations for further reading. Note that you do not need to read everything you include in this list.
 
 
-*Evaluation*
+*Evaluation*  
 To be discussed during class. 
 
 
