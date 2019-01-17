@@ -10,8 +10,10 @@ excerpt:
 # Minor or In-Class Assignments
 *Participation*  
 Come to class, participate in discussion and in workshops. This will significantly enhance your learning but will not be policed. We place the responsibility for learning in your hands. Evaluation: credit/no credit. 
+<br>
 *Weekly Writing Assignment*  
 Every week, you will have a short writing assignment designed to help you prepare for discussion. You are allowed to skip up to three of these assignments. Evaluation: credit/no credit.
+<br>
 *Printing Exercise*  
 As a class, we’ll be setting type and printing a broadside that displays a sequence of phrases assembled from the books you’re working with. 
 
@@ -38,7 +40,7 @@ Regardless of the option you choose, you must include the following. Note that y
 	* Marginalia & ownership marks.
 	* A suggestion of 2-3 books from the JCB collection that the patron might consult next. These books should have something material in common with the book you described, either because of where they were printed, who printed them, or how they were made.  The books you choose should not be from the list we provided.
 	In addition to describing these details, you might also address: texture, smell, affect (the emotion that the book evokes), damage, anything that is weird or unusual.
-<br>
+<br><a/>
 <br>
 *Evaluation*  
 To be discussed during class. 
@@ -63,7 +65,7 @@ Imagine the class is curating a digital exhibit, and you have been asked to prod
 * How would this book have been used? Who would have been reading or using this object? Why? What for?
 * At the end, name two or three books from a collection in Providence (at least one outside the JCB) that an interested person might want to look at next, and explain, in 1-2 sentences, why these books share a historical context with yours. The books you choose should not be from the list we provided.
 * Much like the first assignment, you are not required to make an argument in this piece. Instead, you are synthesizing information from secondary sources to explain the context of the book.  Your post should have short paragraphs, subheadings, a bibliography, and some recommendations for further reading. Note that you do not need to read everything you include in this list.
-<br>
+<br><a/>
 <br>
 *Evaluation*
 To be discussed during class. 
@@ -84,7 +86,7 @@ For this assignment, you will work as part of a team of four people to develop s
 * Selecting the order of the books and the features of each book that you want to display. Remember that visitors might move sequentially through the exhibit, or randomly enter in the middle.
 * Writing a curator’s note for your collection: 1-2 pages total that provides background information for your part of the exhibit and explains how it fits into the broader theme.
 * Presenting your work in the form of an “exhibition show and tell” on the final day of class and incorporating feedback into revised exhibit labels.
-<br>
+<br><a/>
 <br>
 *Individual Responsibilities*
 * Exhibit labels: 1-2 paragraphs for your chosen book that describes its context and the reason it has been put on display.
