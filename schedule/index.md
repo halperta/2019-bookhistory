@@ -93,16 +93,16 @@ All readings are available either through the links on this website, or through 
   </tr> -->
 
   <tr bgcolor="LightGray">
-    <th rowspan="5">February 25, 2019 (Unit 1)</th>
-      <td> 1. </td>
+    <th rowspan="5">February 25, 2019 (Unit 1) <br> Topic: Authorship.</th>
+      <td> 1. Philip Round, “The Coming of the Book to Indian Country.” *Removable Type.* 21-45. </td>
       <td rowspan="5"> </td>
       <td rowspan="5"> </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left"><a href=""> 2 </a></td>
+    <td align="left"><a href="https://soundcloud.com/rarebookschool/calvo-hortensia-knots-paint-paper-and-ink-books-and-print-in-early-spanish-america">**[Podcast!]** Hortensia Calvo, “Knots, Paint, Paper, and Ink: Books and Print in Early Spanish America” (Audio). 2 </a></td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left">3 </td>
+    <td align="left">3. Roger Chartier, tk. </td>
   </tr>
   <tr bgcolor="LightGray">
     <td align="left">4</td>
@@ -112,16 +112,17 @@ All readings are available either through the links on this website, or through 
   </tr>
 
   <tr bgcolor="#EBF5FB">
-    <th rowspan="5">March 4, 2019 (Unit 2)</th>
-      <td> 1. </td>
+    <th rowspan="5">March 4, 2019 (Unit 2) <br> Topic: Images</th>
+      <td> 1. D. F. McKenzie, “The Sociology of a Text.” Finkelstein and McCleery, *Book History Reader*. 205-232. </td>
       <td rowspan="5"> </td>
       <td rowspan="5"> </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left"><a href=""> 2 </a></td>
+    <td align="left"><a href=""> 2. Michael Gaudio, tk. </a></td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">3 </td>
+    <td align="left">3. Lisa Voigt and Elio Brancaforte. "The Traveling Illustrations of Sixteenth- Century Travel Narratives
+." *PMLA* 129.3 (2014)365-398. </td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left">4</td>
@@ -151,7 +152,7 @@ All readings are available either through the links on this website, or through 
 
   <tr bgcolor="#EBF5FB">
     <th rowspan="5">March 18, 2019 (Unit 2)</th>
-     <td> 1. </td>
+     <td> 1. Surekha Davies, “Atlantic empires, map workshops and Renaissance geographical culture.“ *Renaissance Ethnography.* (47-64)</td>
     <td rowspan="5"> </td>
     <td rowspan="5"> </td>
   </tr>
@@ -189,7 +190,8 @@ All readings are available either through the links on this website, or through 
 
   <tr bgcolor="#EBF5FB">
     <th rowspan="5">April 1, 2019 (Unit 2)</th>
-   <td> 1. </td>
+   <td> 1. *Salvatore, Ricardo (2008). Libraries and the Legibility of Hispanic America: Early Latin American Collections in the United States.* (pp. 191-211). 
+</td>
     <td rowspan="5"> </td>
     <td rowspan="5"> </td>
   </tr>
