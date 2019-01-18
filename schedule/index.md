@@ -73,7 +73,7 @@ All readings are available either through the links on this website, or through 
     <td align="left">5 </td>
   </tr>
 
-  <tr bgcolor="#F2F4F4">
+  <tr bgcolor="#FFDEEB">
     <th rowspan="1">February 18, 2019 (Unit 1)</th>
       <td> No Class: Presidents' Day </td>
       <td rowspan="1"> </td>
@@ -169,7 +169,7 @@ All readings are available either through the links on this website, or through 
     <td align="left">5 </td>
   </tr>
 
-  <tr bgcolor="#F2F4F4">
+  <tr bgcolor="#FFDEEB">
     <th rowspan="1">March 25, 2019 (Unit 2)</th>
    <td> No Class: Spring Break </td>
     <td rowspan="1"> </td>
@@ -193,7 +193,7 @@ All readings are available either through the links on this website, or through 
    <td> 1. *Salvatore, Ricardo (2008). Libraries and the Legibility of Hispanic America: Early Latin American Collections in the United States.* (pp. 191-211). 
 </td>
     <td rowspan="5"> </td>
-    <td rowspan="5" bgcolor="FFDEEB"> Final Draft: Books in Context </td>
+    <td rowspan="5"> Final Draft: Books in Context </td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left"><a href=""> 2 </a></td>
@@ -210,7 +210,7 @@ All readings are available either through the links on this website, or through 
 
   <tr bgcolor="LightGray">
     <th rowspan="1">April 8, 2019 (Unit 2)</th>
-    <td> Visit to Printers </td>
+    <td> Visit to Printing Studio with Erica Mena-Landry and Kalie Boyne </td>
     <td rowspan="1"> </td>
     <td rowspan="1"> </td>
   </tr>
