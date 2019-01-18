@@ -73,7 +73,7 @@ All readings are available either through the links on this website, or through 
     <td align="left">5 </td>
   </tr>
 
-  <tr bgcolor="#FFDEEB">
+  <tr bgcolor="#FAECFA">
     <th rowspan="1">February 18, 2019 (Unit 1)</th>
       <td> No Class: Presidents' Day </td>
       <td rowspan="1"> </td>
@@ -169,7 +169,7 @@ All readings are available either through the links on this website, or through 
     <td align="left">5 </td>
   </tr>
 
-  <tr bgcolor="FFDEEB">
+  <tr bgcolor="FAECFA">
     <th rowspan="1">March 25, 2019 (Unit 2)</th>
    <td> No Class: Spring Break </td>
     <td rowspan="1"> </td>
