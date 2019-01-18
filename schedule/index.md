@@ -73,7 +73,7 @@ All readings are available either through the links on this website, or through 
     <td align="left">5 </td>
   </tr>
 
-  <tr bgcolor="##F2F4F4">
+  <tr bgcolor="#F2F4F4">
     <th rowspan="1">February 18, 2019 (Unit 1)</th>
       <td> No Class: Presidents' Day </td>
       <td rowspan="1"> </td>
@@ -95,14 +95,14 @@ All readings are available either through the links on this website, or through 
   <tr bgcolor="LightGray">
     <th rowspan="5">February 25, 2019 (Unit 2) <br> Topic: Authorship.</th>
       <td> 1. Philip Round, “The Coming of the Book to Indian Country.” *Removable Type.* 21-45. </td>
-      <td rowspan="5"> </td>
+      <td rowspan="5"><a href="https://www.abaa.org/bookseller_interview/details/david-m.-szewczyk-the-philadelphia-rare-books-manuscripts-company"> Guest Visit: David Szewczyk</a> </td>
       <td rowspan="5"> Peer Review: Book Description </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left">2. </td>
+    <td align="left">2. Roger Chartier, tk. </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left">3. Roger Chartier, tk. </td>
+    <td align="left">3. </td>
   </tr>
   <tr bgcolor="LightGray">
     <td align="left">4</td>
@@ -114,7 +114,7 @@ All readings are available either through the links on this website, or through 
   <tr bgcolor="#EBF5FB">
     <th rowspan="5">March 4, 2019 (Unit 2) <br> Topic: Images</th>
       <td> 1. D. F. McKenzie, “The Sociology of a Text.” Finkelstein and McCleery, *Book History Reader*. 205-232. </td>
-      <td rowspan="5"> </td>
+      <td rowspan="5"><a href="https://vivo.brown.edu/display/hshaffer"> Guest Visit: Holly Shaffer </a> </td>
       <td rowspan="5"> Final Draft: Book Description </td>
   </tr>
   <tr bgcolor="EBF5FB">
@@ -134,8 +134,8 @@ All readings are available either through the links on this website, or through 
   <tr bgcolor="LightGray">
     <th rowspan="5">March 11, 2019 (Unit 2)</th>
       <td> 1. </td>
-      <td rowspan="5"> </td>
-      <td rowspan="5"> </td>
+      <td rowspan="5"> Guest Visit: <a href="https://www.smith.edu/academics/faculty/dana-leibsohn">Dana Leibsohn</a> and <a href="https://arthist.jhu.edu/directory/aaron-m-hyman/">Aaron Hyman</a></td>
+      <td rowspan="5">  </td>
   </tr>
   <tr bgcolor="LightGray">
     <td align="left"><a href=""> 2 </a></td>
@@ -153,7 +153,7 @@ All readings are available either through the links on this website, or through 
   <tr bgcolor="#EBF5FB">
     <th rowspan="5">March 18, 2019 (Unit 2)</th>
      <td> 1. Surekha Davies, “Atlantic empires, map workshops and Renaissance geographical culture.“ *Renaissance Ethnography.* (47-64)</td>
-    <td rowspan="5"> </td>
+    <td rowspan="5"><a href="http://www.surekhadavies.org/"> Guest Visit: Surekha Davies </a> </td>
     <td rowspan="5"> First Draft: Books in Context </td>
   </tr>
   <tr bgcolor="EBF5FB">
@@ -249,7 +249,7 @@ All readings are available either through the links on this website, or through 
   <tr bgcolor="LightGray">
     <th rowspan="5">April 22, 2019 (Unit 3)</th>
     <td> 1. </td>
-    <td rowspan="5"> </td>
+    <td rowspan="5"> <a href="https://elikaortega.net">Guest Visit: Élika Ortega </a> </td>
     <td rowspan="5"> </td>
   </tr>
   <tr bgcolor="LightGray">
