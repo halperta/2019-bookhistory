@@ -193,7 +193,7 @@ All readings are available either through the links on this website, or through 
    <td> 1. *Salvatore, Ricardo (2008). Libraries and the Legibility of Hispanic America: Early Latin American Collections in the United States.* (pp. 191-211). 
 </td>
     <td rowspan="5"> </td>
-    <td rowspan="5"> Final Draft: Books in Context </td>
+    <td rowspan="5" bgcolor="FFDEEB"> Final Draft: Books in Context </td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left"><a href=""> 2 </a></td>
