@@ -113,19 +113,19 @@ All readings are available either through the links on this website, or through 
 
   <tr bgcolor="#EBF5FB">
     <th rowspan="5">March 4, 2019 (Unit 2) <br> Topic: Images</th>
-      <td> 1. Roger Chartier, tk. </td>
+      <td> 1. Michael Gaudio, tk.</td>
       <td rowspan="5"><a href="https://vivo.brown.edu/display/hshaffer"> Guest Visit: Holly Shaffer </a> </td>
       <td rowspan="5"> Final Draft: Book Description </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left"><a href=""> 2. Michael Gaudio, tk. </a></td>
+    <td align="left"><a href=""> 2. Lisa Voigt and Elio Brancaforte. "The Traveling Illustrations of Sixteenth- Century Travel Narratives
+." *PMLA* 129.3 (2014)365-398.  </a></td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">3. Lisa Voigt and Elio Brancaforte. "The Traveling Illustrations of Sixteenth- Century Travel Narratives
-." *PMLA* 129.3 (2014)365-398. </td>
+    <td align="left"><a href="http://www.valeriagauz.net/images/earlyprinting.pdf">3. Valeria Gauz, "Early Printing in Brazil." <i>Bulletin du Bibliophile</i> (2013).</a> </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left"><a href="http://www.valeriagauz.net/images/earlyprinting.pdf">4. Valeria Gauz, "Early Printing in Brazil." <i>Bulletin du Bibliophile</i> (2013).</a></td>
+    <td align="left">4.</td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left">5 </td>
@@ -133,7 +133,7 @@ All readings are available either through the links on this website, or through 
 
   <tr bgcolor="LightGray">
     <th rowspan="5">March 11, 2019 (Unit 2)</th>
-      <td> 1. </td>
+      <td> 1. Roger Chartier, tk. </td>
       <td rowspan="5"> Guest Visit: <a href="https://www.smith.edu/academics/faculty/dana-leibsohn">Dana Leibsohn</a> and <a href="https://arthist.jhu.edu/directory/aaron-m-hyman/">Aaron Hyman</a></td>
       <td rowspan="5">  </td>
   </tr>
