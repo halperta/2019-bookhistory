@@ -36,7 +36,7 @@ All readings are available either through the links on this website, or through 
 
 
   <tr bgcolor="LightGray">
-    <th rowspan="5">February 4, 2019 (Unit 1). <br> Topic: Manuscript</th>
+    <th rowspan="5">February 4, 2019 (Unit 1). <br> Topic: Writing Books</th>
        <td> 1. Birgit Brander Rasmussen, “The Manuscript, the Quipu, and the Early American Book.” (in Colonial Mediascapes). 141-165 </td>
       <td rowspan="5"> </td>
       <td rowspan="5">   </td>
@@ -55,7 +55,7 @@ All readings are available either through the links on this website, or through 
   </tr>
 
   <tr bgcolor="#EBF5FB">
-    <th rowspan="5">February 11, 2019 (Unit 1). <br> Topic: Print.</th>
+    <th rowspan="5">February 11, 2019 (Unit 1). <br> Topic: Printing Books.</th>
       <td> 1. Eisenstein, Elizabeth. “Defining the Initial Shift.” In David Finkelstein and Alistair McCleery, eds. <i> Book History Reader</i>. Routledge, 2006. 232-254 </td>
       <td rowspan="5"> </td>
       <td rowspan="5"> Map Quiz. </td>
@@ -93,16 +93,16 @@ All readings are available either through the links on this website, or through 
   </tr> -->
 
   <tr bgcolor="LightGray">
-    <th rowspan="5">February 25, 2019 (Unit 2) <br> Topic: Authorship.</th>
+    <th rowspan="5">February 25, 2019 (Unit 1) <br> Topic: The Sociology of a Text.</th>
       <td> 1.  </td>
       <td rowspan="5"><a href="https://www.abaa.org/bookseller_interview/details/david-m.-szewczyk-the-philadelphia-rare-books-manuscripts-company"> Guest Visit: David Szewczyk</a> </td>
       <td rowspan="5"> Peer Review: Book Description </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left">2. Roger Chartier, tk. </td>
+    <td align="left">2. D. F. McKenzie, “The Sociology of a Text.” Finkelstein and McCleery, <i>Book History Reader</i>. 205-232.  </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left">3. </td>
+    <td align="left">3. Hill, Matthew. "The Book Trade in the Colonial Philippines." <i>Book History</i> 20:1 (2017). 40-82. </td>
   </tr>
   <tr bgcolor="LightGray">
     <td align="left">4</td>
@@ -113,7 +113,7 @@ All readings are available either through the links on this website, or through 
 
   <tr bgcolor="#EBF5FB">
     <th rowspan="5">March 4, 2019 (Unit 2) <br> Topic: Images</th>
-      <td> 1. D. F. McKenzie, “The Sociology of a Text.” Finkelstein and McCleery, *Book History Reader*. 205-232. </td>
+      <td> 1. Roger Chartier, tk. </td>
       <td rowspan="5"><a href="https://vivo.brown.edu/display/hshaffer"> Guest Visit: Holly Shaffer </a> </td>
       <td rowspan="5"> Final Draft: Book Description </td>
   </tr>
@@ -125,7 +125,7 @@ All readings are available either through the links on this website, or through 
 ." *PMLA* 129.3 (2014)365-398. </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">4</td>
+    <td align="left"><a href="http://www.valeriagauz.net/images/earlyprinting.pdf">4. Valeria Gauz, "Early Printing in Brazil." <i>Bulletin du Bibliophile</i> (2013).</a></td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left">5 </td>
