@@ -18,7 +18,7 @@ All readings are available either through the links on this website, or through 
   <tr bgcolor="#EBF5FB">
     <th rowspan="5">January 28, 2019 (Unit 1) <br><br> Topic: Whose history of the book? </th>
       <td> 1. <a href="http://www.lightspeedmagazine.com/fiction/the-bookmaking-habits-of-select-species/">The Bookmaking Habits of Select Species by Ken Liu (2012)</a> </td>
-      <td rowspan="5"> </td>
+      <td rowspan="5">  </td>
       <td rowspan="5">   </td>
   </tr>
   <tr bgcolor="EBF5FB">
@@ -38,8 +38,8 @@ All readings are available either through the links on this website, or through 
   <tr bgcolor="LightGray">
     <th rowspan="5">February 4, 2019 (Unit 1). <br><br> Topic: Writing Books</th>
        <td> 1. Birgit Brander Rasmussen, “The Manuscript, the Quipu, and the Early American Book.” (in Colonial Mediascapes). 141-165 </td>
-      <td rowspan="5"> </td>
-      <td rowspan="5">   </td>
+      <td rowspan="5"> Descriptive Bibliography Workshop (1) </td>
+      <td rowspan="5">  </td>
   </tr>
   <tr bgcolor="LightGray">
     <td align="left"><a href=""> 2. Boone, Elizabeth Hill. "Introduction." Walter Mignolo and Elizabeth Hill Boone, eds. <i>Writing Without Words</i>. Durham: Duke University Press, 1994. 3-27. </a></td>
@@ -57,7 +57,7 @@ All readings are available either through the links on this website, or through 
   <tr bgcolor="#EBF5FB">
     <th rowspan="5">February 11, 2019 (Unit 1). <br><br> Topic: Printing Books.</th>
       <td> 1. Eisenstein, Elizabeth. “Defining the Initial Shift.” In David Finkelstein and Alistair McCleery, eds. <i> Book History Reader</i>. Routledge, 2006. 232-254 </td>
-      <td rowspan="5"> </td>
+      <td rowspan="5"> Descriptive Bibliography Workshop (2) </td>
       <td rowspan="5"> Map Quiz. </td>
   </tr>
   <tr bgcolor="EBF5FB">
@@ -138,10 +138,10 @@ All readings are available either through the links on this website, or through 
       <td rowspan="5">  </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left"><a href=""> 2 </a></td>
+    <td align="left"><a href=""> 2. Rabasa? </a></td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left">3 </td>
+    <td align="left">3. Script and Glyph? </td>
   </tr>
   <tr bgcolor="LightGray">
     <td align="left">4</td>
@@ -151,16 +151,16 @@ All readings are available either through the links on this website, or through 
   </tr>
 
   <tr bgcolor="#EBF5FB">
-    <th rowspan="5">March 18, 2019 (Unit 2) <br><br> Topic: Maps</th>
+    <th rowspan="5">March 18, 2019 (Unit 2) <br><br> Topic: Printers</th>
      <td> 1. Surekha Davies, “Atlantic empires, map workshops and Renaissance geographical culture.“ *Renaissance Ethnography.* (47-64)</td>
     <td rowspan="5"><a href="http://www.surekhadavies.org/"> Guest Visit: Surekha Davies </a> </td>
     <td rowspan="5"> First Draft: Books in Context </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left"><a href=""> 2 </a></td>
+    <td align="left"><a href=""> 2. Brannon, Frank. “Metal Type from the Print Shop of the Historical ‘Cherokee Phoenix’ Newspaper.” The Papers of the Bibliographical Society of America, vol. 103, no. 3, 2009, pp. 319–335. JSTOR, www.jstor.org/stable/24293817. </a></td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">3 </td>
+    <td align="left">3. Corinna Zeltsman, “Defining Responsibility: Printers, Politics, and the Law in Early Republican Mexico City.” The Hispanic American Historical Review. 98, no. 2 (May 2018): 189-222. </td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left">4</td>
@@ -192,7 +192,7 @@ All readings are available either through the links on this website, or through 
     <th rowspan="5">April 1, 2019 (Unit 2) <br><br> Topic: Libraries</th>
    <td> 1. *Salvatore, Ricardo (2008). Libraries and the Legibility of Hispanic America: Early Latin American Collections in the United States.* (pp. 191-211). 
 </td>
-    <td rowspan="5"> </td>
+    <td rowspan="5"> Group work workshop? </td>
     <td rowspan="5"> Final Draft: Books in Context </td>
   </tr>
   <tr bgcolor="EBF5FB">
@@ -228,7 +228,7 @@ All readings are available either through the links on this website, or through 
   </tr> -->
 
   <tr bgcolor="#EBF5FB">
-   <th rowspan="5">April 15, 2019 (Unit 3)</th>
+   <th rowspan="5">April 15, 2019 (Unit 3) <br><br> Topic: Copies </th>
    <td> 1. </td>
     <td rowspan="5"> </td>
     <td rowspan="5"> </td>
@@ -247,7 +247,7 @@ All readings are available either through the links on this website, or through 
   </tr>
 
   <tr bgcolor="LightGray">
-    <th rowspan="5">April 22, 2019 (Unit 3)</th>
+    <th rowspan="5">April 22, 2019 (Unit 3) <br><br> Topic: Digital </th>
     <td> 1. </td>
     <td rowspan="5"> <a href="https://elikaortega.net">Guest Visit: Élika Ortega </a> </td>
     <td rowspan="5"> </td>
@@ -266,7 +266,7 @@ All readings are available either through the links on this website, or through 
   </tr>
 
   <tr bgcolor="#EBF5FB">
-   <th rowspan="5">April 29, 2019 (Unit 3)</th>
+   <th rowspan="5">April 29, 2019 (Unit 3) <br><br> Topic: Curation</th>
    <td> 1. </td>
     <td rowspan="5"> </td>
     <td rowspan="5"> </td>
