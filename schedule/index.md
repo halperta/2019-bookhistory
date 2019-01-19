@@ -16,7 +16,7 @@ All readings are available either through the links on this website, or through 
   </tr>
 
   <tr bgcolor="#EBF5FB">
-    <th rowspan="5">January 28, 2019 (Unit 1) <br> Topic: Whose history of the book? </th>
+    <th rowspan="5">January 28, 2019 (Unit 1) <br><br> Topic: Whose history of the book? </th>
       <td> 1. <a href="http://www.lightspeedmagazine.com/fiction/the-bookmaking-habits-of-select-species/">The Bookmaking Habits of Select Species by Ken Liu (2012)</a> </td>
       <td rowspan="5"> </td>
       <td rowspan="5">   </td>
@@ -36,7 +36,7 @@ All readings are available either through the links on this website, or through 
 
 
   <tr bgcolor="LightGray">
-    <th rowspan="5">February 4, 2019 (Unit 1). <br> Topic: Writing Books</th>
+    <th rowspan="5">February 4, 2019 (Unit 1). <br><br> Topic: Writing Books</th>
        <td> 1. Birgit Brander Rasmussen, “The Manuscript, the Quipu, and the Early American Book.” (in Colonial Mediascapes). 141-165 </td>
       <td rowspan="5"> </td>
       <td rowspan="5">   </td>
@@ -55,7 +55,7 @@ All readings are available either through the links on this website, or through 
   </tr>
 
   <tr bgcolor="#EBF5FB">
-    <th rowspan="5">February 11, 2019 (Unit 1). <br> Topic: Printing Books.</th>
+    <th rowspan="5">February 11, 2019 (Unit 1). <br><br> Topic: Printing Books.</th>
       <td> 1. Eisenstein, Elizabeth. “Defining the Initial Shift.” In David Finkelstein and Alistair McCleery, eds. <i> Book History Reader</i>. Routledge, 2006. 232-254 </td>
       <td rowspan="5"> </td>
       <td rowspan="5"> Map Quiz. </td>
@@ -93,7 +93,7 @@ All readings are available either through the links on this website, or through 
   </tr> -->
 
   <tr bgcolor="LightGray">
-    <th rowspan="5">February 25, 2019 (Unit 1) <br> Topic: The Sociology of a Text.</th>
+    <th rowspan="5">February 25, 2019 (Unit 1) <br><br> Topic: The Sociology of a Text.</th>
       <td> 1.  </td>
       <td rowspan="5"><a href="https://www.abaa.org/bookseller_interview/details/david-m.-szewczyk-the-philadelphia-rare-books-manuscripts-company"> Guest Visit: David Szewczyk</a> </td>
       <td rowspan="5"> Peer Review: Book Description </td>
@@ -112,7 +112,7 @@ All readings are available either through the links on this website, or through 
   </tr>
 
   <tr bgcolor="#EBF5FB">
-    <th rowspan="5">March 4, 2019 (Unit 2) <br> Topic: Images</th>
+    <th rowspan="5">March 4, 2019 (Unit 2) <br><br> Topic: Images</th>
       <td> 1. Michael Gaudio, tk.</td>
       <td rowspan="5"><a href="https://vivo.brown.edu/display/hshaffer"> Guest Visit: Holly Shaffer </a> </td>
       <td rowspan="5"> Final Draft: Book Description </td>
@@ -132,7 +132,7 @@ All readings are available either through the links on this website, or through 
   </tr>
 
   <tr bgcolor="LightGray">
-    <th rowspan="5">March 11, 2019 (Unit 2) <br> Topic: Authors</th>
+    <th rowspan="5">March 11, 2019 (Unit 2) <br><br> Topic: Authors</th>
       <td> 1. Roger Chartier, tk. </td>
       <td rowspan="5"> Guest Visit: <a href="https://www.smith.edu/academics/faculty/dana-leibsohn">Dana Leibsohn</a> and <a href="https://arthist.jhu.edu/directory/aaron-m-hyman/">Aaron Hyman</a></td>
       <td rowspan="5">  </td>
@@ -151,7 +151,7 @@ All readings are available either through the links on this website, or through 
   </tr>
 
   <tr bgcolor="#EBF5FB">
-    <th rowspan="5">March 18, 2019 (Unit 2) <br> Topic: Maps</th>
+    <th rowspan="5">March 18, 2019 (Unit 2) <br><br> Topic: Maps</th>
      <td> 1. Surekha Davies, “Atlantic empires, map workshops and Renaissance geographical culture.“ *Renaissance Ethnography.* (47-64)</td>
     <td rowspan="5"><a href="http://www.surekhadavies.org/"> Guest Visit: Surekha Davies </a> </td>
     <td rowspan="5"> First Draft: Books in Context </td>
@@ -189,7 +189,7 @@ All readings are available either through the links on this website, or through 
   </tr> -->
 
   <tr bgcolor="#EBF5FB">
-    <th rowspan="5">April 1, 2019 (Unit 2) <br> Topic: Libraries</th>
+    <th rowspan="5">April 1, 2019 (Unit 2) <br><br> Topic: Libraries</th>
    <td> 1. *Salvatore, Ricardo (2008). Libraries and the Legibility of Hispanic America: Early Latin American Collections in the United States.* (pp. 191-211). 
 </td>
     <td rowspan="5"> </td>
