@@ -45,10 +45,10 @@ All readings are available either through the links on this website, or through 
     <td align="left"><a href=""> 2. Boone, Elizabeth Hill. "Introduction." Walter Mignolo and Elizabeth Hill Boone, eds. <i>Writing Without Words</i>. Durham: Duke University Press, 1994. 3-27. </a></td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left">3 </td>
+    <td align="left">3.  <a href="https://soundcloud.com/rarebookschool/calvo-hortensia-knots-paint-paper-and-ink-books-and-print-in-early-spanish-america">**[Podcast!]** Hortensia Calvo, “Knots, Paint, Paper, and Ink: Books and Print in Early Spanish America” (Audio). </a>  </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left">4</td>
+    <td align="left">4. Rabasa, "Reading Folio 46r." in <i>Tell me the Story of How I Conquered You.</i> Austin: University of Texas Press, 2011.</td>
   </tr>
   <tr bgcolor="LightGray">
     <td align="left">5 </td>
@@ -61,10 +61,10 @@ All readings are available either through the links on this website, or through 
       <td rowspan="5"> Map Quiz. </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left"><a href=""> 2. Martin, “North America & Transatlantic Book Culture” (CHB) 259-271. </a></td>
+    <td align="left"><a href="https://www.abaa.org/member-articles/the-first-hundred-years-of-printing-in-british-north-america-printers-and-c"> 2. William S. Reese, "The First Hundred Years of Printing in British North America: Printers and Collectors." <i>American Antiquarian Society,</i> 1990. </a></td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">3. <a href="https://soundcloud.com/rarebookschool/calvo-hortensia-knots-paint-paper-and-ink-books-and-print-in-early-spanish-america">**[Podcast!]** Hortensia Calvo, “Knots, Paint, Paper, and Ink: Books and Print in Early Spanish America” (Audio). </a> </td>
+    <td align="left">3. Philip Round, “The Coming of the Book to Indian Country.” in <i>Removable Type.</i> University of North Carolina Press, 2011. 21-45.</td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left">4</td>
@@ -94,7 +94,7 @@ All readings are available either through the links on this website, or through 
 
   <tr bgcolor="LightGray">
     <th rowspan="5">February 25, 2019 (Unit 2) <br> Topic: Authorship.</th>
-      <td> 1. Philip Round, “The Coming of the Book to Indian Country.” *Removable Type.* 21-45. </td>
+      <td> 1.  </td>
       <td rowspan="5"><a href="https://www.abaa.org/bookseller_interview/details/david-m.-szewczyk-the-philadelphia-rare-books-manuscripts-company"> Guest Visit: David Szewczyk</a> </td>
       <td rowspan="5"> Peer Review: Book Description </td>
   </tr>
