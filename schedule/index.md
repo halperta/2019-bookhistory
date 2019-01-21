@@ -45,7 +45,7 @@ All readings are available either through the links on this website, or through 
     <td align="left"><a href=""> 2. Theory: Rabasa, "Reading Folio 46r." in <i>Tell me the Story of How I Conquered You.</i> Austin: University of Texas Press, 2011.</a></td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left">3. Context:  <a href="https://soundcloud.com/rarebookschool/calvo-hortensia-knots-paint-paper-and-ink-books-and-print-in-early-spanish-america">**[Podcast!]** Hortensia Calvo, “Knots, Paint, Paper, and Ink: Books and Print in Early Spanish America” (Audio). </a>  </td>
+    <td align="left">3. Context:  <a href="https://soundcloud.com/rarebookschool/calvo-hortensia-knots-paint-paper-and-ink-books-and-print-in-early-spanish-america"><b>[Podcast!]</b> Hortensia Calvo, “Knots, Paint, Paper, and Ink: Books and Print in Early Spanish America” (Audio). </a>  </td>
   </tr>
   <tr bgcolor="LightGray">
     <td align="left">4. </td>  
@@ -61,10 +61,10 @@ All readings are available either through the links on this website, or through 
       <td rowspan="5"> Map Quiz. </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">2. Theory: Eisenstein, Elizabeth. “Defining the Initial Shift.” In David Finkelstein and Alistair McCleery, eds. <i> Book History Reader</i>. Routledge, 2006. 232-254 </a></td>
+    <td align="left">2. Theory: Eisenstein, Elizabeth. “Defining the Initial Shift.” In David Finkelstein and Alistair McCleery, eds. <i> Book History Reader</i>. Routledge, 2006. 232-254 </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">3. Context: <a href="https://www.abaa.org/member-articles/the-first-hundred-years-of-printing-in-british-north-america-printers-and-c"> 2. William S. Reese, "The First Hundred Years of Printing in British North America: Printers and Collectors." <i>American Antiquarian Society,</i> 1990. </td>
+    <td align="left">3. Context: <a href="https://www.abaa.org/member-articles/the-first-hundred-years-of-printing-in-british-north-america-printers-and-c"> 2. William S. Reese, "The First Hundred Years of Printing in British North America: Printers and Collectors." <i>American Antiquarian Society,</i> 1990. </a> </td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left">4</td>
