@@ -132,7 +132,7 @@ All readings are available either through the links on this website, or through 
   </tr>
 
   <tr bgcolor="LightGray">
-    <th rowspan="5">March 11, 2019 (Unit 2) <br><br> Topic: Authors</th>
+    <th rowspan="5">March 11, 2019 (Unit 2) <br><br> Topic: Production</th>
       <td> 1. Case Study: Corinna Zeltsman, “Defining Responsibility: Printers, Politics, and the Law in Early Republican Mexico City.” The Hispanic American Historical Review. 98, no. 2 (May 2018): 189-222. </td>
       <td rowspan="5"> Guest Visit: <a href="https://www.smith.edu/academics/faculty/dana-leibsohn">Dana Leibsohn</a> and <a href="https://arthist.jhu.edu/directory/aaron-m-hyman/">Aaron Hyman</a></td>
       <td rowspan="5">  </td>
@@ -152,7 +152,7 @@ All readings are available either through the links on this website, or through 
 
   <tr bgcolor="#EBF5FB">
     <th rowspan="5">March 18, 2019 (Unit 2) <br><br> Topic: Circulation</th>
-     <td> 1. Case Study: Read at least two articles from <a href="https://decolonialatlas.wordpress.com/">The Decolonial Atlas.</a> </td>
+     <td> 1. Case Study: David Geggus, "Print Culture and the Haitian Revolution: the Written and the Spoken Word." American Antiquarian Society, 2007. </td>
     <td rowspan="5"><a href="http://www.surekhadavies.org/"> Guest Visit: Surekha Davies </a> </td>
     <td rowspan="5"> First Draft: Books in Context </td>
   </tr>
@@ -189,20 +189,20 @@ All readings are available either through the links on this website, or through 
   </tr> -->
 
   <tr bgcolor="#EBF5FB">
-    <th rowspan="5">April 1, 2019 (Unit 2) <br><br> Topic: Libraries</th>
-   <td> 1. *Salvatore, Ricardo (2008). Libraries and the Legibility of Hispanic America: Early Latin American Collections in the United States.* (pp. 191-211). 
+    <th rowspan="5">April 1, 2019 (Unit 2) <br><br> Topic: Collection</th>
+   <td> 1. Salvatore, Ricardo (2008). Libraries and the Legibility of Hispanic America: Early Latin American Collections in the United States.* (pp. 191-211). 
 </td>
     <td rowspan="5"> Group work workshop? </td>
     <td rowspan="5"> Final Draft: Books in Context </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left"><a href=""> 2 </a></td>
+    <td align="left"><a href=""> 2. Dorothy Porter, “Fifty Years of Collecting.” in <i>Black Access: A Bibliography of Afro-American Bibliographies by Richard Newman, Comp.</i>  (Westport, Connecticut: Greenwood Press, 1984).</a></td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">3 </td>
+    <td align="left">3. <a href="https://bookriot.com/listen/worlds-glamorous-librarian/"> <b>[Podcast:]</b> The World's Most Glamorous Librarian. <i>Annotated</i> Episode 3 (July 27, 2017).</a> </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">4</td>
+    <td align="left">4. Elinor Des Verney Sinnette, “Arthur Alfonso Schomburg (1874–1938), Black Bibliophile and Collector,” in Sinnette, Coates, and Battle, Black Bibliophiles and Collectors. </td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left">5 </td>
@@ -229,7 +229,7 @@ All readings are available either through the links on this website, or through 
 
   <tr bgcolor="#EBF5FB">
    <th rowspan="5">April 15, 2019 (Unit 3) <br><br> Topic: Copies </th>
-   <td> 1. Brannon, Frank. “Metal Type from the Print Shop of the Historical ‘Cherokee Phoenix’ Newspaper.” The Papers of the Bibliographical Society of America, vol. 103, no. 3, 2009, pp. 319–335. JSTOR, www.jstor.org/stable/24293817. </td>
+   <td> 1. </td>
     <td rowspan="5"> </td>
     <td rowspan="5"> </td>
   </tr>
