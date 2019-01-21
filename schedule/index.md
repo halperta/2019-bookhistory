@@ -48,7 +48,7 @@ All readings are available either through the links on this website, or through 
     <td align="left">3.  <a href="https://soundcloud.com/rarebookschool/calvo-hortensia-knots-paint-paper-and-ink-books-and-print-in-early-spanish-america">**[Podcast!]** Hortensia Calvo, “Knots, Paint, Paper, and Ink: Books and Print in Early Spanish America” (Audio). </a>  </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left">4. Rabasa, "Reading Folio 46r." in <i>Tell me the Story of How I Conquered You.</i> Austin: University of Texas Press, 2011.</td>
+    <td align="left">4. 
   </tr>
   <tr bgcolor="LightGray">
     <td align="left">5 </td>
@@ -94,12 +94,12 @@ All readings are available either through the links on this website, or through 
 
   <tr bgcolor="LightGray">
     <th rowspan="5">February 25, 2019 (Unit 1) <br><br> Topic: The Sociology of a Text.</th>
-      <td> 1.  </td>
+      <td> 1. D. F. McKenzie, “The Sociology of a Text.” Finkelstein and McCleery, <i>Book History Reader</i>. 205-232. </td>
       <td rowspan="5"><a href="https://www.abaa.org/bookseller_interview/details/david-m.-szewczyk-the-philadelphia-rare-books-manuscripts-company"> Guest Visit: David Szewczyk</a> </td>
       <td rowspan="5"> Peer Review: Book Description </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left">2. D. F. McKenzie, “The Sociology of a Text.” Finkelstein and McCleery, <i>Book History Reader</i>. 205-232.  </td>
+    <td align="left">2. Tuhiwai Smith, Linda. "Imperialism, History, Writing, and Theory" in <i>Decolonizing Methodologies.</i> Zed Books, 2012. 57-91. </td>
   </tr>
   <tr bgcolor="LightGray">
     <td align="left">3. Hill, Matthew. "The Book Trade in the Colonial Philippines." <i>Book History</i> 20:1 (2017). 40-82. </td>
@@ -138,7 +138,7 @@ All readings are available either through the links on this website, or through 
       <td rowspan="5">  </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left"><a href=""> 2. Rabasa? </a></td>
+    <td align="left"><a href=""> 2. Rabasa, "Reading Folio 46r." in <i>Tell me the Story of How I Conquered You.</i> Austin: University of Texas Press, 2011.</td> </a></td>
   </tr>
   <tr bgcolor="LightGray">
     <td align="left">3. Script and Glyph? </td>
@@ -151,13 +151,13 @@ All readings are available either through the links on this website, or through 
   </tr>
 
   <tr bgcolor="#EBF5FB">
-    <th rowspan="5">March 18, 2019 (Unit 2) <br><br> Topic: Printers</th>
+    <th rowspan="5">March 18, 2019 (Unit 2) <br><br> Topic: Maps</th>
      <td> 1. Surekha Davies, “Atlantic empires, map workshops and Renaissance geographical culture.“ *Renaissance Ethnography.* (47-64)</td>
     <td rowspan="5"><a href="http://www.surekhadavies.org/"> Guest Visit: Surekha Davies </a> </td>
     <td rowspan="5"> First Draft: Books in Context </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left"><a href=""> 2. Brannon, Frank. “Metal Type from the Print Shop of the Historical ‘Cherokee Phoenix’ Newspaper.” The Papers of the Bibliographical Society of America, vol. 103, no. 3, 2009, pp. 319–335. JSTOR, www.jstor.org/stable/24293817. </a></td>
+    <td align="left"><a href=""> 2.  </a></td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left">3. Corinna Zeltsman, “Defining Responsibility: Printers, Politics, and the Law in Early Republican Mexico City.” The Hispanic American Historical Review. 98, no. 2 (May 2018): 189-222. </td>
@@ -230,7 +230,7 @@ All readings are available either through the links on this website, or through 
   <tr bgcolor="#EBF5FB">
    <th rowspan="5">April 15, 2019 (Unit 3) <br><br> Topic: Copies </th>
    <td> 1. </td>
-    <td rowspan="5"> </td>
+    <td rowspan="5"> Brannon, Frank. “Metal Type from the Print Shop of the Historical ‘Cherokee Phoenix’ Newspaper.” The Papers of the Bibliographical Society of America, vol. 103, no. 3, 2009, pp. 319–335. JSTOR, www.jstor.org/stable/24293817. </td>
     <td rowspan="5"> </td>
   </tr>
   <tr bgcolor="EBF5FB">
