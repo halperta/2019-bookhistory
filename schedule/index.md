@@ -240,7 +240,7 @@ All readings are available either through the links on this website, or through 
     <td align="left">3. Context: Mak, Bonnie. “Archaeology of a digitization.” Journal of the Association for Information Science and Technology. Volume 65, Issue 8. </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">4. <a href="https://llilasbensonmagazine.org/2016/07/29/llilas-benson-and-the-repatriation-of-indigenous-cultural-patrimony-of-mexico/"> Context: Kelly McDonough, "LLILAS Benson and the Repatriation of Indigenous Cultural Patrimony of Mexico." <i>Portal.</i> July 29, 2016.</a><</td>
+    <td align="left">4. <a href="https://llilasbensonmagazine.org/2016/07/29/llilas-benson-and-the-repatriation-of-indigenous-cultural-patrimony-of-mexico/"> Context: Kelly McDonough, "LLILAS Benson and the Repatriation of Indigenous Cultural Patrimony of Mexico." <i>Portal.</i> July 29, 2016.</a></td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left">5 </td>
@@ -248,7 +248,7 @@ All readings are available either through the links on this website, or through 
 
   <tr bgcolor="LightGray">
     <th rowspan="5">April 22, 2019 (Unit 3) <br><br> Topic: Digital </th>
-    <td> 1. </td>
+    <td> 1. TK. </td>
     <td rowspan="5"> <a href="https://elikaortega.net">Guest Visit: Élika Ortega </a> </td>
     <td rowspan="5"> </td>
   </tr>
@@ -256,7 +256,7 @@ All readings are available either through the links on this website, or through 
     <td align="left"><a href="http://www.dotporterdigital.org/is-this-your-book-what-digitization-does-to-manuscripts-and-what-we-can-do-about-it/"> 2. Theory: Dot Porter, "Is This Your Book? What we call digitized manuscripts and why it matters." July 16, 2018. </a></td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left">3. </td>
+    <td align="left"><a href="https://ijoc.org/index.php/ijoc/article/view/1618">3. Theory: Kim Christen. "Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness.” International Journal of Communication. 6 (2012).</a> </td>
   </tr>
   <tr bgcolor="LightGray">
     <td align="left">4</td>
