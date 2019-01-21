@@ -56,7 +56,7 @@ All readings are available either through the links on this website, or through 
 
   <tr bgcolor="#EBF5FB">
     <th rowspan="5">February 11, 2019 (Unit 1). <br><br> Topic: Printing Books.</th>
-      <td> 1. Case Study: </td>
+      <td> 1. Case Study: Stallybrass, Peter. "Printing and the Manuscript Revolution." in Barbie Zelizer, ed. <i>Explorations in Communication and History.</i> Routledge, 2008.</td>
       <td rowspan="5"> Descriptive Bibliography Workshop (2) </td>
       <td rowspan="5"> Map Quiz. </td>
   </tr>
@@ -133,15 +133,15 @@ All readings are available either through the links on this website, or through 
 
   <tr bgcolor="LightGray">
     <th rowspan="5">March 11, 2019 (Unit 2) <br><br> Topic: Authors</th>
-      <td> 1. Roger Chartier, tk. </td>
+      <td> 1. Case Study:  </td>
       <td rowspan="5"> Guest Visit: <a href="https://www.smith.edu/academics/faculty/dana-leibsohn">Dana Leibsohn</a> and <a href="https://arthist.jhu.edu/directory/aaron-m-hyman/">Aaron Hyman</a></td>
       <td rowspan="5">  </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left"><a href=""> 2. </a></td>
+    <td align="left"><a href=""> 2. Theory: Roger Chartier, tk. </a></td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left">3. Hill, Matthew. "The Book Trade in the Colonial Philippines." <i>Book History</i> 20:1 (2017). 40-82. </td>
+    <td align="left">3. Context: Hill, Matthew. "The Book Trade in the Colonial Philippines." <i>Book History</i> 20:1 (2017). 40-82. </td>
   </tr>
   <tr bgcolor="LightGray">
     <td align="left">4</td>
@@ -152,15 +152,15 @@ All readings are available either through the links on this website, or through 
 
   <tr bgcolor="#EBF5FB">
     <th rowspan="5">March 18, 2019 (Unit 2) <br><br> Topic: Maps</th>
-     <td> 1. Surekha Davies, “Atlantic empires, map workshops and Renaissance geographical culture.“ *Renaissance Ethnography.* (47-64)</td>
+     <td> 1. Case Study: TK. </td>
     <td rowspan="5"><a href="http://www.surekhadavies.org/"> Guest Visit: Surekha Davies </a> </td>
     <td rowspan="5"> First Draft: Books in Context </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left"><a href=""> 2.  </a></td>
+    <td align="left"><a href=""> 2. Theory: Offen, Karl and Jordana Dym. "Introduction." In <i>Mapping Latin America.</i> University of Chicago Press, 2011. </a></td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">3. Corinna Zeltsman, “Defining Responsibility: Printers, Politics, and the Law in Early Republican Mexico City.” The Hispanic American Historical Review. 98, no. 2 (May 2018): 189-222. </td>
+    <td align="left">3. Context: Surekha Davies, “Atlantic empires, map workshops and Renaissance geographical culture.“ *Renaissance Ethnography.* (47-64) </td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left">4</td>
