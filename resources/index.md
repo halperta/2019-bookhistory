@@ -10,6 +10,6 @@ Image:
 
 # John Carter Brown Library Resources
 * [Aeon website](https://jcbl.aeon.atlas-sys.com/aeon.dll) (for reading room requests).
-* [JCB Library Website](https://www.brown.edu/academics/libraries/john-carter-brown/)
-* [JCB Library on archive.org](https://archive.org/details/JohnCarterBrownLibrary).
-* [JCB Library Luna Database](https://jcb.lunaimaging.com/luna/servlet/allCollections).
+* [JCB Library Website](https://www.brown.edu/academics/libraries/john-carter-brown/).
+* [JCB Library on archive.org](https://archive.org/details/JohnCarterBrownLibrary) (digitized books).
+* [JCB Library Luna Database](https://jcb.lunaimaging.com/luna/servlet/allCollections) (digitized maps and prints).

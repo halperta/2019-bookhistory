@@ -199,7 +199,7 @@ All readings are available either through the links on this website, or through 
     <td align="left"><a href=""> 2. Case Study: Dorothy Porter, “Fifty Years of Collecting.” in <i>Black Access: A Bibliography of Afro-American Bibliographies by Richard Newman, Comp.</i>  (Westport, Connecticut: Greenwood Press, 1984).</a></td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">3. <a href="https://bookriot.com/listen/worlds-glamorous-librarian/"> <b> Case Study: [Podcast:]</b> The World's Most Glamorous Librarian. <i>Annotated</i> Episode 3 (July 27, 2017).</a> </td>
+    <td align="left">3. <a href="https://bookriot.com/listen/worlds-glamorous-librarian/"> Case Study: <b> [Podcast]</b>: The World's Most Glamorous Librarian. <i>Annotated</i> Episode 3 (July 27, 2017).</a> </td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left">4. Case Study: Elinor Des Verney Sinnette, “Arthur Alfonso Schomburg (1874–1938), Black Bibliophile and Collector,” in Sinnette, Coates, and Battle, Black Bibliophiles and Collectors. </td>
