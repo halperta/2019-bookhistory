@@ -15,8 +15,8 @@ Neil Safier is the Beatrice and Julio Mario Santo Domingo Director and Librarian
 ## Hannah Alpert-Abrams 
 she, her, hers | please call me Hannah \\
 E-mail: halperta@brown.edu  
-Office: TK  
-Office Hours: Tues 12-3 and Weds 11-12, by appointment only: [https://halperta.youcanbook.me](https://halperta.youcanbook.me)  
+Office: Parker Room, JCB Library    
+Office Hours: Tues 1-3 and Weds 11-12, by appointment only: [https://halperta.youcanbook.me](https://halperta.youcanbook.me)  
 
 I am a Postdoctoral Fellow in the History of the Book in the Americas at the John Carter Brown Library. I am interested in libraries, book history, and digital humanities. I study the circulation of colonial texts and vulnerable archives in the U.S. and Latin America. From 2015-2017, I managed the *Reading the First Books* project at LLILAS Benson Latin American Studies and Collections, UT Austin, and from 2017-2018 I managed the digital portal to the Archivo Histórico de la Policía Nacional de Guatemala. I earned my PhD in comparative literature from the University of Texas at Austin in 2017. 
 
