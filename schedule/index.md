@@ -229,8 +229,8 @@ All readings are available either through the links on this website, or through 
 
   <tr bgcolor="#EBF5FB">
    <th rowspan="5">April 15, 2019 (Unit 3) <br><br> Topic: Copies </th>
-   <td> 1. </td>
-    <td rowspan="5"> Brannon, Frank. “Metal Type from the Print Shop of the Historical ‘Cherokee Phoenix’ Newspaper.” The Papers of the Bibliographical Society of America, vol. 103, no. 3, 2009, pp. 319–335. JSTOR, www.jstor.org/stable/24293817. </td>
+   <td> 1. Brannon, Frank. “Metal Type from the Print Shop of the Historical ‘Cherokee Phoenix’ Newspaper.” The Papers of the Bibliographical Society of America, vol. 103, no. 3, 2009, pp. 319–335. JSTOR, www.jstor.org/stable/24293817. </td>
+    <td rowspan="5"> </td>
     <td rowspan="5"> </td>
   </tr>
   <tr bgcolor="EBF5FB">
