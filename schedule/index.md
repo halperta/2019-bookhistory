@@ -64,7 +64,7 @@ All readings are available either through the links on this website, or through 
     <td align="left">2. Theory: Eisenstein, Elizabeth. “Defining the Initial Shift.” In David Finkelstein and Alistair McCleery, eds. <i> Book History Reader</i>. Routledge, 2006. 232-254 </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">3. Context: <a href="https://www.abaa.org/member-articles/the-first-hundred-years-of-printing-in-british-north-america-printers-and-c"> 2. William S. Reese, "The First Hundred Years of Printing in British North America: Printers and Collectors." <i>American Antiquarian Society,</i> 1990. </a> </td>
+    <td align="left">3. Context: <a href="https://www.abaa.org/member-articles/the-first-hundred-years-of-printing-in-british-north-america-printers-and-c"> William S. Reese, "The First Hundred Years of Printing in British North America: Printers and Collectors." <i>American Antiquarian Society,</i> 1990. </a> </td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left">4</td>
@@ -133,7 +133,7 @@ All readings are available either through the links on this website, or through 
 
   <tr bgcolor="LightGray">
     <th rowspan="5">March 11, 2019 (Unit 2) <br><br> Topic: Authors</th>
-      <td> 1. Case Study:  </td>
+      <td> 1. Case Study: Corinna Zeltsman, “Defining Responsibility: Printers, Politics, and the Law in Early Republican Mexico City.” The Hispanic American Historical Review. 98, no. 2 (May 2018): 189-222. </td>
       <td rowspan="5"> Guest Visit: <a href="https://www.smith.edu/academics/faculty/dana-leibsohn">Dana Leibsohn</a> and <a href="https://arthist.jhu.edu/directory/aaron-m-hyman/">Aaron Hyman</a></td>
       <td rowspan="5">  </td>
   </tr>
