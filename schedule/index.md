@@ -6,6 +6,8 @@ Image:
 
 All readings are available either through the links on this website, or through canvas.  
 
+Note that this schedule is subject to change. Any changes will be made here.  
+
 # Calendar
 <table style="width:100%">
   <tr bgcolor="LightGray">
