@@ -5,7 +5,7 @@ Image:
 ---
 
 ## Neil Safier
-He, Him, His | Please call me Dr. Safier \\
+He, Him, His | Please call me Professor Safier \\
 E-mail: neil_safier@brown.edu   
 Office: JCB First Floor
 Office Hours: Email rebecca_laferriere@brown.edu to make an appointment.
