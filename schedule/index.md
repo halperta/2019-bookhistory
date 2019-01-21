@@ -267,12 +267,12 @@ All readings are available either through the links on this website, or through 
 
   <tr bgcolor="#EBF5FB">
    <th rowspan="5">April 29, 2019 (Unit 3) <br><br> Topic: Curation</th>
-   <td> 1. </td>
+   <td> 1. David Thomas, Simon Fowler, and Valerie Johnson. The Silence of the Archive. Chapter 1. </td>
     <td rowspan="5"> </td>
     <td rowspan="5"> </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left"><a href=""> 2 </a></td>
+    <td align="left"><a href="https://rbm.acrl.org/index.php/rbm/article/view/391/391"> 2. John Overholt, "Five Theses on the Future of Special Collections." RBM 13.1 (2013). </a></td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left">3 </td>
