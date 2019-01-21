@@ -151,8 +151,8 @@ All readings are available either through the links on this website, or through 
   </tr>
 
   <tr bgcolor="#EBF5FB">
-    <th rowspan="5">March 18, 2019 (Unit 2) <br><br> Topic: Maps</th>
-     <td> 1. Case Study: TK. </td>
+    <th rowspan="5">March 18, 2019 (Unit 2) <br><br> Topic: Circulation</th>
+     <td> 1. Case Study: Read at least two articles from <a href="https://decolonialatlas.wordpress.com/">The Decolonial Atlas.</a> </td>
     <td rowspan="5"><a href="http://www.surekhadavies.org/"> Guest Visit: Surekha Davies </a> </td>
     <td rowspan="5"> First Draft: Books in Context </td>
   </tr>
@@ -160,7 +160,7 @@ All readings are available either through the links on this website, or through 
     <td align="left"><a href=""> 2. Theory: Offen, Karl and Jordana Dym. "Introduction." In <i>Mapping Latin America.</i> University of Chicago Press, 2011. </a></td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">3. Context: Surekha Davies, “Atlantic empires, map workshops and Renaissance geographical culture.“ *Renaissance Ethnography.* (47-64) </td>
+    <td align="left">3. Context: Surekha Davies, “Atlantic empires, map workshops and Renaissance geographical culture.“ <i>Renaissance Ethnography.</i> (47-64). </td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left">4</td>
