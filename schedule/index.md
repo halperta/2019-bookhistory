@@ -190,22 +190,22 @@ All readings are available either through the links on this website, or through 
 
   <tr bgcolor="#EBF5FB">
     <th rowspan="5">April 1, 2019 (Unit 2) <br><br> Topic: Collection</th>
-   <td> 1. Salvatore, Ricardo (2008). Libraries and the Legibility of Hispanic America: Early Latin American Collections in the United States.* (pp. 191-211). 
+   <td> 1. Theory: Salvatore, Ricardo (2008). Libraries and the Legibility of Hispanic America: Early Latin American Collections in the United States.* (pp. 191-211). 
 </td>
     <td rowspan="5"> Group work workshop? </td>
     <td rowspan="5"> Final Draft: Books in Context </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left"><a href=""> 2. Dorothy Porter, “Fifty Years of Collecting.” in <i>Black Access: A Bibliography of Afro-American Bibliographies by Richard Newman, Comp.</i>  (Westport, Connecticut: Greenwood Press, 1984).</a></td>
+    <td align="left"><a href=""> 2. Case Study: Dorothy Porter, “Fifty Years of Collecting.” in <i>Black Access: A Bibliography of Afro-American Bibliographies by Richard Newman, Comp.</i>  (Westport, Connecticut: Greenwood Press, 1984).</a></td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">3. <a href="https://bookriot.com/listen/worlds-glamorous-librarian/"> <b>[Podcast:]</b> The World's Most Glamorous Librarian. <i>Annotated</i> Episode 3 (July 27, 2017).</a> </td>
+    <td align="left">3. <a href="https://bookriot.com/listen/worlds-glamorous-librarian/"> <b> Case Study: [Podcast:]</b> The World's Most Glamorous Librarian. <i>Annotated</i> Episode 3 (July 27, 2017).</a> </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">4. Elinor Des Verney Sinnette, “Arthur Alfonso Schomburg (1874–1938), Black Bibliophile and Collector,” in Sinnette, Coates, and Battle, Black Bibliophiles and Collectors. </td>
+    <td align="left">4. Case Study: Elinor Des Verney Sinnette, “Arthur Alfonso Schomburg (1874–1938), Black Bibliophile and Collector,” in Sinnette, Coates, and Battle, Black Bibliophiles and Collectors. </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">5 </td>
+    <td align="left"><a href="https://www.chronicle.com/article/Archiving-While-Black/243981">5. Case Study: Ashley Farmer, Archiving While Black. <i>The Chronicle of Higher Education.</i> July 22, 2018.</a></td>
   </tr>
 
   <tr bgcolor="LightGray">
@@ -229,18 +229,18 @@ All readings are available either through the links on this website, or through 
 
   <tr bgcolor="#EBF5FB">
    <th rowspan="5">April 15, 2019 (Unit 3) <br><br> Topic: Copies </th>
-   <td> 1. </td>
+   <td> 1. Case Study: Daniela Bleichmar, "Translation, Mobility, and Mediation: The Case of the Codex Mendoza." in Susanna Burghartz, Lucas Burkart, and Christine Göttler, eds. <i>Sites of Mediation.</i> 240-269. </td>
     <td rowspan="5"> </td>
     <td rowspan="5"> </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left"><a href=""> 2 </a></td>
+    <td align="left"><a href="https://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm"> 2. Theory: Walter Benjamin, "The Work of Art in the Age of Mechanical Reproduction." 1936. </a></td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">3 </td>
+    <td align="left">3. Context: Mak, Bonnie. “Archaeology of a digitization.” Journal of the Association for Information Science and Technology. Volume 65, Issue 8. </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">4</td>
+    <td align="left">4. <a href="https://llilasbensonmagazine.org/2016/07/29/llilas-benson-and-the-repatriation-of-indigenous-cultural-patrimony-of-mexico/"> Context: Kelly McDonough, "LLILAS Benson and the Repatriation of Indigenous Cultural Patrimony of Mexico." <i>Portal.</i> July 29, 2016.</a><</td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left">5 </td>
@@ -253,10 +253,10 @@ All readings are available either through the links on this website, or through 
     <td rowspan="5"> </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left"><a href=""> 2 </a></td>
+    <td align="left"><a href="http://www.dotporterdigital.org/is-this-your-book-what-digitization-does-to-manuscripts-and-what-we-can-do-about-it/"> 2. Theory: Dot Porter, "Is This Your Book? What we call digitized manuscripts and why it matters." July 16, 2018. </a></td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left">3 </td>
+    <td align="left">3. </td>
   </tr>
   <tr bgcolor="LightGray">
     <td align="left">4</td>
