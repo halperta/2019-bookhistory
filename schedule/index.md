@@ -143,7 +143,7 @@ Note that this schedule is subject to change. Any changes will be made here.
     <td align="left"><a href=""> 2. Theory: Roger Chartier, tk. </a></td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left">3. Context: Hill, Matthew. "The Book Trade in the Colonial Philippines." <i>Book History</i> 20:1 (2017). 40-82. </td>
+    <td align="left">3. Context: Context: Hill, Matthew. "The Book Trade in the Colonial Philippines." <i>Book History</i> 20:1 (2017). 40-82. </td>
   </tr>
   <tr bgcolor="LightGray">
     <td align="left">4</td>
@@ -154,21 +154,21 @@ Note that this schedule is subject to change. Any changes will be made here.
 
   <tr bgcolor="#EBF5FB">
     <th rowspan="5">March 18, 2019 (Unit 2) <br><br> Topic: Circulation</th>
-     <td> 1. Case Study: David Geggus, "Print Culture and the Haitian Revolution: the Written and the Spoken Word." American Antiquarian Society, 2007. </td>
+     <td> 1.  Theory: Offen, Karl and Jordana Dym. "Introduction." In <i>Mapping Latin America.</i> University of Chicago Press, 2011. </td>
     <td rowspan="5"><a href="http://www.surekhadavies.org/"> Guest Visit: Surekha Davies </a> </td>
     <td rowspan="5"> First Draft: Books in Context </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left"><a href=""> 2. Theory: Offen, Karl and Jordana Dym. "Introduction." In <i>Mapping Latin America.</i> University of Chicago Press, 2011. </a></td>
+    <td align="left">2.  Theory: Surekha Davies, “Atlantic empires, map workshops and Renaissance geographical culture.“ <i>Renaissance Ethnography.</i> (47-64).</td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">3. Context: Surekha Davies, “Atlantic empires, map workshops and Renaissance geographical culture.“ <i>Renaissance Ethnography.</i> (47-64). </td>
+    <td align="left">3. Context: Lara Langer Cohen and Jordan Alexander Stein, "Introduction," in Early African American Print Culture. 1-16.</td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">4</td>
+    <td align="left">4. Context: Gardner, Eric. "Early African American Print Culture and the American West" in Cohen and Stein, Early Aftrican American Print Culture. 75-89.</td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">5 </td>
+    <td align="left">5 </td> 
   </tr>
 
   <tr bgcolor="#FFDEEB">
@@ -198,16 +198,16 @@ Note that this schedule is subject to change. Any changes will be made here.
     <td rowspan="5"> Final Draft: Books in Context </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left"><a href=""> 2. Case Study: Dorothy Porter, “Fifty Years of Collecting.” in <i>Black Access: A Bibliography of Afro-American Bibliographies by Richard Newman, Comp.</i>  (Westport, Connecticut: Greenwood Press, 1984).</a></td>
+    <td align="left"><a href="https://bookriot.com/listen/worlds-glamorous-librarian/"> 2. Case Study: <b> [Podcast]</b>: The World's Most Glamorous Librarian. <i>Annotated</i> Episode 3 (July 27, 2017). </a></td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">3. <a href="https://bookriot.com/listen/worlds-glamorous-librarian/"> Case Study: <b> [Podcast]</b>: The World's Most Glamorous Librarian. <i>Annotated</i> Episode 3 (July 27, 2017).</a> </td>
+    <td align="left">3. Case Study: Elinor Des Verney Sinnette, “Arthur Alfonso Schomburg (1874–1938), Black Bibliophile and Collector,” in Sinnette, Coates, and Battle, Black Bibliophiles and Collectors.  </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">4. Case Study: Elinor Des Verney Sinnette, “Arthur Alfonso Schomburg (1874–1938), Black Bibliophile and Collector,” in Sinnette, Coates, and Battle, Black Bibliophiles and Collectors. </td>
+    <td align="left"><a href="https://www.chronicle.com/article/Archiving-While-Black/243981">4. Case Study: Ashley Farmer, Archiving While Black. <i>The Chronicle of Higher Education.</i> July 22, 2018.</a> </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left"><a href="https://www.chronicle.com/article/Archiving-While-Black/243981">5. Case Study: Ashley Farmer, Archiving While Black. <i>The Chronicle of Higher Education.</i> July 22, 2018.</a></td>
+    <td align="left"> Context:  </td>
   </tr>
 
   <tr bgcolor="LightGray">
