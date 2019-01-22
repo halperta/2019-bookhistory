@@ -49,10 +49,10 @@ While the course content will be broad, over the semester each student will be r
 ## Unit 1: The Nature of the Book
 What is a book? What are the historical processes that created the book as we know it, what values inform the way we understand book history, and what alternative forms of bookishness are there? What histories and voices are embedded in the creation of the book, and what methods can we use to uncover those pasts?
 
-## Unit 2: Book Work
+## Unit 2: Books in Context
 Who makes books? What kind of work is involved in the process of creating, circulating, reading, and preserving books? How do we study those people and their impact on books and on history, and what can this kind of research tell us about history?
 
-## Unit 3: Remediation
+## Unit 3: The Future of the Book
 What happens when books take on new forms and enter new kinds of media? What is a book in film, a book in music, a book online? How does remediation reshape the book, and what kinds of futures does it enable for the study of book history?
 
 
