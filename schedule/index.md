@@ -250,7 +250,7 @@ Note that this schedule is subject to change. Any changes will be made here.
 
   <tr bgcolor="LightGray">
     <th rowspan="5">April 22, 2019 (Unit 3) <br><br> Topic: Digital </th>
-    <td> 1. TK. </td>
+    <td> 1. Case Study: <a href="http://smallaxe.net/sxarchipelagos/issue01/musical-passage.html">"sx archipelagos presents Musical Passage: A Voyage to 1688 Jamaica. </a> </td>
     <td rowspan="5"> <a href="https://elikaortega.net">Guest Visit: Élika Ortega </a> </td>
     <td rowspan="5"> </td>
   </tr>
