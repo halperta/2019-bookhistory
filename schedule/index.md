@@ -24,16 +24,16 @@ Note that this schedule is subject to change. Any changes will be made here.
       <td rowspan="5">   </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left"><a href=""> 2 </a></td>
+    <td align="left"><a href=""></a></td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">3 </td>
+    <td align="left"></td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">4</td>
+    <td align="left"></td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">5 </td>
+    <td align="left"> </td>
   </tr>
 
 
@@ -50,10 +50,10 @@ Note that this schedule is subject to change. Any changes will be made here.
     <td align="left">3. Context:  <a href="https://soundcloud.com/rarebookschool/calvo-hortensia-knots-paint-paper-and-ink-books-and-print-in-early-spanish-america"><b>[Podcast!]</b> Hortensia Calvo, “Knots, Paint, Paper, and Ink: Books and Print in Early Spanish America” (Audio). </a>  </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left">4. </td>  
+    <td align="left"></td>  
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left">5 </td>
+    <td align="left"></td>
   </tr>
 
   <tr bgcolor="#EBF5FB">
@@ -69,10 +69,10 @@ Note that this schedule is subject to change. Any changes will be made here.
     <td align="left">3. Context: <a href="https://www.abaa.org/member-articles/the-first-hundred-years-of-printing-in-british-north-america-printers-and-c"> William S. Reese, "The First Hundred Years of Printing in British North America: Printers and Collectors." <i>American Antiquarian Society,</i> 1990. </a> </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">4</td>
+    <td align="left"></td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">5 </td>
+    <td align="left"></td>
   </tr>
 
   <tr bgcolor="#FFDEEB">
@@ -107,10 +107,10 @@ Note that this schedule is subject to change. Any changes will be made here.
     <td align="left">3. Context: Philip Round, “The Coming of the Book to Indian Country.” in <i>Removable Type.</i> University of North Carolina Press, 2011. 21-45. </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left">4</td>
+    <td align="left"></td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left">5 </td>
+    <td align="left"></td>
   </tr>
 
   <tr bgcolor="#EBF5FB">
@@ -127,10 +127,10 @@ Note that this schedule is subject to change. Any changes will be made here.
     <td align="left"><a href="http://www.valeriagauz.net/images/earlyprinting.pdf">3. Context: Valeria Gauz, "Early Printing in Brazil." <i>Bulletin du Bibliophile</i> (2013).</a> </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">4.</td>
+    <td align="left"></td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">5 </td>
+    <td align="left"></td>
   </tr>
 
   <tr bgcolor="LightGray">
@@ -146,10 +146,10 @@ Note that this schedule is subject to change. Any changes will be made here.
     <td align="left">3. Context: Context: Hill, Matthew. "The Book Trade in the Colonial Philippines." <i>Book History</i> 20:1 (2017). 40-82. </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left">4</td>
+    <td align="left"></td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left">5 </td>
+    <td align="left"></td>
   </tr>
 
   <tr bgcolor="#EBF5FB">
@@ -168,7 +168,7 @@ Note that this schedule is subject to change. Any changes will be made here.
     <td align="left">4. Context: Gardner, Eric. "Early African American Print Culture and the American West" in Cohen and Stein, Early Aftrican American Print Culture. 75-89.</td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">5 </td> 
+    <td align="left"></td> 
   </tr>
 
   <tr bgcolor="#FFDEEB">
@@ -245,7 +245,7 @@ Note that this schedule is subject to change. Any changes will be made here.
     <td align="left">4. <a href="https://llilasbensonmagazine.org/2016/07/29/llilas-benson-and-the-repatriation-of-indigenous-cultural-patrimony-of-mexico/"> Context: Kelly McDonough, "LLILAS Benson and the Repatriation of Indigenous Cultural Patrimony of Mexico." <i>Portal.</i> July 29, 2016.</a></td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">5 </td>
+    <td align="left"></td>
   </tr>
 
   <tr bgcolor="LightGray">
@@ -261,10 +261,10 @@ Note that this schedule is subject to change. Any changes will be made here.
     <td align="left"><a href="https://ijoc.org/index.php/ijoc/article/view/1618">3. Theory: Kim Christen. "Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness.” International Journal of Communication. 6 (2012).</a> </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left">4</td>
+    <td align="left"></td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left">5 </td>
+    <td align="left"></td>
   </tr>
 
   <tr bgcolor="#EBF5FB">
@@ -277,13 +277,13 @@ Note that this schedule is subject to change. Any changes will be made here.
     <td align="left"><a href="https://rbm.acrl.org/index.php/rbm/article/view/391/391"> 2. John Overholt, "Five Theses on the Future of Special Collections." RBM 13.1 (2013). </a></td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">3 </td>
+    <td align="left"></td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">4</td>
+    <td align="left"></td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">5 </td>
+    <td align="left"></td>
   </tr>
 
   <tr bgcolor="LightGray">
