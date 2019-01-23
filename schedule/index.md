@@ -44,7 +44,7 @@ Note that this schedule is subject to change. Any changes will be made here.
       <td rowspan="5">  </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left"><a href=""> 2. Theory: Rabasa, "Reading Folio 46r." in <i>Tell me the Story of How I Conquered You.</i> Austin: University of Texas Press, 2011.</a></td>
+    <td align="left"><a href=""> 2. Theory: Boone, "Introduction." in Elizabeth Hill Boone and Walter Mignolo, <i>Writing Without Words.</i> Durham: Duke University Press, 1994.</a></td>
   </tr>
   <tr bgcolor="LightGray">
     <td align="left">3. Context:  <a href="https://soundcloud.com/rarebookschool/calvo-hortensia-knots-paint-paper-and-ink-books-and-print-in-early-spanish-america"><b>[Podcast!]</b> Hortensia Calvo, “Knots, Paint, Paper, and Ink: Books and Print in Early Spanish America” (Audio). </a>  </td>
@@ -207,7 +207,7 @@ Note that this schedule is subject to change. Any changes will be made here.
     <td align="left"><a href="https://www.chronicle.com/article/Archiving-While-Black/243981">4. Case Study: Ashley Farmer, Archiving While Black. <i>The Chronicle of Higher Education.</i> July 22, 2018.</a> </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left"> Context:  </td>
+    <td align="left">  </td>
   </tr>
 
   <tr bgcolor="LightGray">
