@@ -39,7 +39,7 @@ Regardless of the option you choose, you must include the following. Note that y
 	* How much has a volume of this book sold for? (if possible!)
 	* Marginalia & ownership marks.
 	* A suggestion of 2-3 books from the JCB collection that the patron might consult next. These books should have something material in common with the book you described, either because of where they were printed, who printed them, or how they were made.  The books you choose should not be from the list we provided.
-	In addition to describing these details, you might also address: texture, smell, affect (the emotion that the book evokes), damage, anything that is weird or unusual.
+	* In addition to describing these details, you might also address: texture, smell, affect (the emotion that the book evokes), damage, anything that is weird or unusual.
 
 
 *Evaluation*  
