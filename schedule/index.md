@@ -155,7 +155,7 @@ Note that this schedule is subject to change. Any changes will be made here.
   <tr bgcolor="#EBF5FB">
     <th rowspan="5">March 18, 2019 (Unit 2) <br><br> Topic: Production</th>
      <td> 1.  Theory: Offen, Karl and Jordana Dym. "Introduction." In <i>Mapping Latin America.</i> University of Chicago Press, 2011. </td>
-    <td rowspan="5"><a href="http://www.surekhadavies.org/"> Guest Visit: Surekha Davies </a> </td>
+    <td rowspan="5"><a href="http://www.surekhadavies.org/"> Guest Visit: Bertie Mandelblatt </a> </td>
     <td rowspan="5"> First Draft: Books in Context </td>
   </tr>
   <tr bgcolor="EBF5FB">
