@@ -143,10 +143,10 @@ Note that this schedule is subject to change. Any changes will be made here.
     <td align="left"><a href=""> 2. Theory: Roger Chartier, tk. </a></td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left">3. Context: Context: Hill, Matthew. "The Book Trade in the Colonial Philippines." <i>Book History</i> 20:1 (2017). 40-82. </td>
+    <td align="left">3. Context: Lara Langer Cohen and Jordan Alexander Stein, "Introduction," in Early African American Print Culture. 1-16. </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left"></td>
+    <td align="left">4. Context: Gardner, Eric. "Early African American Print Culture and the American West" in Cohen and Stein, Early African American Print Culture. 75-89.</td>
   </tr>
   <tr bgcolor="LightGray">
     <td align="left"></td>
@@ -162,10 +162,10 @@ Note that this schedule is subject to change. Any changes will be made here.
     <td align="left">2.  Theory: Surekha Davies, “Atlantic empires, map workshops and Renaissance geographical culture.“ <i>Renaissance Ethnography.</i> (47-64).</td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">3. Context: Lara Langer Cohen and Jordan Alexander Stein, "Introduction," in Early African American Print Culture. 1-16.</td>
+    <td align="left">3. Context: Context: Hill, Matthew. "The Book Trade in the Colonial Philippines." <i>Book History</i> 20:1 (2017). 40-82.  </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">4. Context: Gardner, Eric. "Early African American Print Culture and the American West" in Cohen and Stein, Early African American Print Culture. 75-89.</td>
+    <td align="left">4. </td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left"></td> 
