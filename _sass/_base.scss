@@ -95,7 +95,7 @@ ins {
 
 a {
 	text-decoration: none;
-	color: $link-color;
+	color: blue $link-color;
 
 	&:visited {
 		color: lighten($link-color, 20);

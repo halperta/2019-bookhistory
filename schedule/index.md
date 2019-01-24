@@ -4,7 +4,7 @@ title: Schedule
 Image:
 ---
 
-All readings are available either through the links on this website, or through canvas.  
+All readings are available either through the links on this website, or through canvas. 
 
 Note that this schedule is subject to change. Any changes will be made here.  
 
@@ -140,7 +140,7 @@ Note that this schedule is subject to change. Any changes will be made here.
       <td rowspan="5">  </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left"><a href=""> 2. Theory: Roger Chartier, tk. </a></td>
+    <td align="left">2. Theory: Roger Chartier, tk. </td>
   </tr>
   <tr bgcolor="LightGray">
     <td align="left">3. Context: Lara Langer Cohen and Jordan Alexander Stein, "Introduction," in Early African American Print Culture. 1-16. </td>
