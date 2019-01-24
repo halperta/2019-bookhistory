@@ -134,7 +134,7 @@ Note that this schedule is subject to change. Any changes will be made here.
   </tr>
 
   <tr bgcolor="LightGray">
-    <th rowspan="5">March 11, 2019 (Unit 2) <br><br> Topic: Production</th>
+    <th rowspan="5">March 11, 2019 (Unit 2) <br><br> Topic: Authorship</th>
       <td> 1. Case Study: Corinna Zeltsman, “Defining Responsibility: Printers, Politics, and the Law in Early Republican Mexico City.” The Hispanic American Historical Review. 98, no. 2 (May 2018): 189-222. </td>
       <td rowspan="5"> Guest Visit: <a href="https://www.smith.edu/academics/faculty/dana-leibsohn">Dana Leibsohn</a> and <a href="https://arthist.jhu.edu/directory/aaron-m-hyman/">Aaron Hyman</a></td>
       <td rowspan="5">  </td>
@@ -153,7 +153,7 @@ Note that this schedule is subject to change. Any changes will be made here.
   </tr>
 
   <tr bgcolor="#EBF5FB">
-    <th rowspan="5">March 18, 2019 (Unit 2) <br><br> Topic: Circulation</th>
+    <th rowspan="5">March 18, 2019 (Unit 2) <br><br> Topic: Production</th>
      <td> 1.  Theory: Offen, Karl and Jordana Dym. "Introduction." In <i>Mapping Latin America.</i> University of Chicago Press, 2011. </td>
     <td rowspan="5"><a href="http://www.surekhadavies.org/"> Guest Visit: Surekha Davies </a> </td>
     <td rowspan="5"> First Draft: Books in Context </td>
@@ -165,7 +165,7 @@ Note that this schedule is subject to change. Any changes will be made here.
     <td align="left">3. Context: Lara Langer Cohen and Jordan Alexander Stein, "Introduction," in Early African American Print Culture. 1-16.</td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">4. Context: Gardner, Eric. "Early African American Print Culture and the American West" in Cohen and Stein, Early Aftrican American Print Culture. 75-89.</td>
+    <td align="left">4. Context: Gardner, Eric. "Early African American Print Culture and the American West" in Cohen and Stein, Early African American Print Culture. 75-89.</td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left"></td> 

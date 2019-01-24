@@ -30,8 +30,9 @@ Imagine you are working for a book dealer who wants to sell a book similar to on
 <br><br>
 *Requirements*  
 Regardless of the option you choose, you must include the following. Note that you won't be able to find all of this information for every book. Do your best! Start by collecting information from the JCB's online catalogue entry for the book. Then, refer to the resources below.
-* Title
-* Bibliographic Description 
+* A title page that includes:
+	* Book Title
+	* Bibliographic Description 
 * A narrative of 700-900 words that describes, to the best of your ability:
 	* Binding, paper, typefaces, images
 	* Title, printer, date and place of publication, front & back matter, 
