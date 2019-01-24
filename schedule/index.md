@@ -121,7 +121,7 @@ Note that this schedule is subject to change. Any changes will be made here.
       <td rowspan="5"> Final Draft: Book Description </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left"><a href=""> 2. Theory: Michael Gaudio, tk. </a></td>
+    <td align="left">2. Theory: Michael Gaudio, tk. </td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left"><a href="http://www.valeriagauz.net/images/earlyprinting.pdf">3. Context: Valeria Gauz, "Early Printing in Brazil." <i>Bulletin du Bibliophile</i> (2013).</a> </td>
