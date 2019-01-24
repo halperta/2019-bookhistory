@@ -135,7 +135,7 @@ Note that this schedule is subject to change. Any changes will be made here.
 
   <tr bgcolor="LightGray">
     <th rowspan="5">March 11, 2019 (Unit 2) <br><br> Topic: Authorship</th>
-      <td> 1. Case Study: Corinna Zeltsman, “Defining Responsibility: Printers, Politics, and the Law in Early Republican Mexico City.” The Hispanic American Historical Review. 98, no. 2 (May 2018): 189-222. </td>
+      <td> 1. Case Study: <a href="https://muse.jhu.edu/article/593051">Cobb, Jasmine Nichole. "“Forget Me Not”: Free Black Women and Sentimentality." MELUS: Multi-Ethnic Literature of the U.S., vol. 40 no. 3, 2015, pp. 28-46. </a></td>
       <td rowspan="5"> Guest Visit: <a href="https://www.smith.edu/academics/faculty/dana-leibsohn">Dana Leibsohn</a> and <a href="https://arthist.jhu.edu/directory/aaron-m-hyman/">Aaron Hyman</a></td>
       <td rowspan="5">  </td>
   </tr>
@@ -154,8 +154,8 @@ Note that this schedule is subject to change. Any changes will be made here.
 
   <tr bgcolor="#EBF5FB">
     <th rowspan="5">March 18, 2019 (Unit 2) <br><br> Topic: Production</th>
-     <td> 1.  Theory: Offen, Karl and Jordana Dym. "Introduction." In <i>Mapping Latin America.</i> University of Chicago Press, 2011. </td>
-    <td rowspan="5"><a href="http://www.surekhadavies.org/"> Guest Visit: Bertie Mandelblatt </a> </td>
+     <td> 1.  Case Study: Corinna Zeltsman, “Defining Responsibility: Printers, Politics, and the Law in Early Republican Mexico City.” The Hispanic American Historical Review. 98, no. 2 (May 2018): 189-222. </td>
+    <td rowspan="5"> Guest Visit: Bertie Mandelblatt </td>
     <td rowspan="5"> First Draft: Books in Context </td>
   </tr>
   <tr bgcolor="EBF5FB">
