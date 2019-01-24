@@ -7,7 +7,7 @@ Image:
 ## Neil Safier
 He, Him, His | Please call me Professor Safier \\
 E-mail: neil_safier@brown.edu   
-Office: JCB First Floor
+Office: JCB First Floor  
 Office Hours: Email rebecca_laferriere@brown.edu to make an appointment.
 
 Neil Safier is the Beatrice and Julio Mario Santo Domingo Director and Librarian of the John Carter Brown Library and Associate Professor in the Department of History at Brown University. He received his Ph.D. from the Johns Hopkins University and has held teaching and research appointments at the University of Michigan, the University of Pennsylvania, and most recently at the University of British Columbia, Vancouver. He is the author of Measuring the New World: Enlightenment Science and South America (Chicago, 2008; paperback edition, 2012). His current research relates to the environmental and ethnographic history of the Amazon River basin and the Atlantic world during the age of revolutions. 
