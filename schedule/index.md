@@ -114,7 +114,7 @@ Note that this schedule is subject to change. Any changes will be made here.
   </tr>
 
   <tr bgcolor="#EBF5FB">
-    <th rowspan="5">March 4, 2019 (Unit 2) <br><br> Topic: Images</th>
+    <th rowspan="5">March 4, 2019 (Unit 2) <br><br> Topic: Circulation</th>
       <td> 1. Case Study: Lisa Voigt and Elio Brancaforte. "The Traveling Illustrations of Sixteenth- Century Travel Narratives
 ." *PMLA* 129.3 (2014)365-398. </td>
       <td rowspan="5"><a href="https://vivo.brown.edu/display/hshaffer"> Guest Visit: Holly Shaffer </a> </td>
