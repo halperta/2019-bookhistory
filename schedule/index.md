@@ -4,7 +4,7 @@ title: Schedule
 Image:
 ---
 
-All readings are available either through the links on this website, or through canvas. [Download the course syllabus here.](./pdf/BookHistorySyllabusSpring2019.pdf)
+All readings are available either through the links on this website, or through canvas. [Download the course syllabus here.](../pdf/BookHistorySyllabusSpring2019.pdf)
 
 Note that this schedule is subject to change. Any changes will be made here.  
 
