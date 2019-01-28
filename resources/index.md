@@ -15,6 +15,7 @@ Image:
 * [JCB Library Luna Database](https://jcb.lunaimaging.com/luna/servlet/allCollections) (digitized maps and prints).
 
 # Worksheets
+[Course Syllabus](./pdf/BookHistorySyllabusSpring2019.pdf)
 [Reverse Reading Worksheet](https://docs.google.com/document/d/1FP-nKyqed5Mv-LaU3rFCebSIxDG8bfKzHTZeQAEnJMk/edit)
 [Scholarly Notetaking Worksheet](https://docs.google.com/document/d/1tWTlvAqcI_OvgIKl3ZWHZxF_ZV2A8QJ-jtt7xD5kTPY/edit)
 [Content Mapping a Scholarly Article](https://docs.google.com/document/d/14Hp_n_fmq9zocIsg0mGtwuWRtLZaj4LmndIJq5QSq3Y/edit)
