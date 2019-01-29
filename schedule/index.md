@@ -20,8 +20,8 @@ Note that this schedule is subject to change. Any changes will be made here.
   <tr bgcolor="#EBF5FB">
     <th rowspan="5">January 28, 2019 (Unit 1) <br><br> Topic: Whose history of the book? </th>
       <td> 1. <a href="http://www.lightspeedmagazine.com/fiction/the-bookmaking-habits-of-select-species/">The Bookmaking Habits of Select Species by Ken Liu (2012)</a> </td>
+      <td rowspan="5"> Guest Visit: <a href="http://www.history.ubc.ca/people/coll-thrush">Coll Thrush</a> </td>
       <td rowspan="5">  </td>
-      <td rowspan="5">   </td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left"><a href=""></a></td>
