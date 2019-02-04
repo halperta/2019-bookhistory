@@ -60,7 +60,7 @@ Note that this schedule is subject to change. Any changes will be made here.
     <th rowspan="5">February 11, 2019 (Unit 1). <br><br> Topic: Printing Books.</th>
       <td> 1. Case Study: Stallybrass, Peter. "Printing and the Manuscript Revolution." in Barbie Zelizer, ed. <i>Explorations in Communication and History.</i> Routledge, 2008.</td>
       <td rowspan="5"> Descriptive Bibliography Workshop (2) </td>
-      <td rowspan="5"> Map Quiz. </td>
+      <td rowspan="5"> </td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left">2. Theory: Eisenstein, Elizabeth. “Defining the Initial Shift.” In David Finkelstein and Alistair McCleery, eds. <i> Book History Reader</i>. Routledge, 2006. 232-254 </td>
