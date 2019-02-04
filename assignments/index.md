@@ -44,7 +44,14 @@ Regardless of the option you choose, you must include the following. Note that y
 	* Binding, paper, typefaces, images
 	* Title, printer, date and place of publication, front & back matter, 
 	* Is this book rare? 
-	* How much has a volume of this book sold for? (if possible!)
+		* To figure this out, find out how many copies surive, or how many libraries own copies.
+		* For European books, look in "European Views of the Americas" in EBSCO
+		* For American books, look in Sabine 
+		* You can also use WorldCat (but watch out for facsimiles or digital copies)
+	* Book Price
+		* For American books, search [American Book Prices Current](https://www.searchabpc.com/) (you must be at Brown to use this site).
+		* For European books, search European Views of the Americas: 1493-1750 (log in through the Brown library website).
+		* make sure you have the correct edition (year of publication); if your book doesn't appear in the catalogue, that's okay.
 	* Marginalia & ownership marks.
 	* A suggestion of 2-3 books from the JCB collection that the patron might consult next. These books should have something material in common with the book you described, either because of where they were printed, who printed them, or how they were made.  The books you choose should not be from the list we provided.
 	* In addition to describing these details, you might also address: texture, smell, affect (the emotion that the book evokes), damage, anything that is weird or unusual.
@@ -59,6 +66,7 @@ To be discussed during class.
 * Gaskell, Phillip. *A New Introduction to Bibliography.* New Castle, Delaware & Winchester: Oak Knoll Press & St. Paul's Bibliographies, 2009.
 * Sample dealer's descriptions (if you choose option 2):
 	* [https://www.raremaps.com/](https://www.raremaps.com/)
+* 
 
 
 <a href="#top">Back to top</a>
