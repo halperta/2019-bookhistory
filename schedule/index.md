@@ -121,7 +121,7 @@ Note that this schedule is subject to change. Any changes will be made here.
       <td rowspan="5"> Final Draft: Book Description </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">2. Theory: Michael Gaudio, tk. </td>
+    <td align="left">2. Theory: Michael Gaudio, "Making Sense of Smoke." in <i>Engraving the Savage.</i> </td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left"><a href="http://www.valeriagauz.net/images/earlyprinting.pdf">3. Context: Valeria Gauz, "Early Printing in Brazil." <i>Bulletin du Bibliophile</i> (2013).</a> </td>
@@ -135,18 +135,18 @@ Note that this schedule is subject to change. Any changes will be made here.
 
   <tr bgcolor="LightGray">
     <th rowspan="5">March 11, 2019 (Unit 2) <br><br> Topic: Authorship</th>
-      <td> 1. Case Study: <a href="https://muse.jhu.edu/article/593051">Cobb, Jasmine Nichole. "“Forget Me Not”: Free Black Women and Sentimentality." MELUS: Multi-Ethnic Literature of the U.S., vol. 40 no. 3, 2015, pp. 28-46. </a></td>
+      <td> 1.  Case Study: Corinna Zeltsman, “Defining Responsibility: Printers, Politics, and the Law in Early Republican Mexico City.” The Hispanic American Historical Review. 98, no. 2 (May 2018): 189-222. </td>
       <td rowspan="5"> Guest Visit: <a href="https://www.smith.edu/academics/faculty/dana-leibsohn">Dana Leibsohn</a> and <a href="https://arthist.jhu.edu/directory/aaron-m-hyman/">Aaron Hyman</a></td>
       <td rowspan="5">  </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left">2. Theory: Roger Chartier, tk. </td>
+    <td align="left"></td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left">3. Context: Lara Langer Cohen and Jordan Alexander Stein, "Introduction," in Early African American Print Culture. 1-16. </td>
+    <td align="left">3. Context: Context: Hill, Matthew. "The Book Trade in the Colonial Philippines." <i>Book History</i> 20:1 (2017). 40-82.   </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left">4. Context: Gardner, Eric. "Early African American Print Culture and the American West" in Cohen and Stein, Early African American Print Culture. 75-89.</td>
+    <td align="left"></td>
   </tr>
   <tr bgcolor="LightGray">
     <td align="left"></td>
@@ -154,18 +154,18 @@ Note that this schedule is subject to change. Any changes will be made here.
 
   <tr bgcolor="#EBF5FB">
     <th rowspan="5">March 18, 2019 (Unit 2) <br><br> Topic: Production</th>
-     <td> 1.  Case Study: Corinna Zeltsman, “Defining Responsibility: Printers, Politics, and the Law in Early Republican Mexico City.” The Hispanic American Historical Review. 98, no. 2 (May 2018): 189-222. </td>
+     <td> 1. Case Study: <a href="https://muse.jhu.edu/article/593051">Cobb, Jasmine Nichole. "“Forget Me Not”: Free Black Women and Sentimentality." MELUS: Multi-Ethnic Literature of the U.S., vol. 40 no. 3, 2015, pp. 28-46. </a>  </td>
     <td rowspan="5"> Guest Visit: Bertie Mandelblatt </td>
     <td rowspan="5"> First Draft: Books in Context </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">2.  Theory: Surekha Davies, “Atlantic empires, map workshops and Renaissance geographical culture.“ <i>Renaissance Ethnography.</i> (47-64).</td>
+    <td align="left"> 2. Theory: Roger Chartier, tk. </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">3. Context: Context: Hill, Matthew. "The Book Trade in the Colonial Philippines." <i>Book History</i> 20:1 (2017). 40-82.  </td>
+    <td align="left"> 3. Context: Lara Langer Cohen and Jordan Alexander Stein, "Introduction," in Early African American Print Culture. 1-16. </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left"></td>
+    <td align="left"> 4. Context: Gardner, Eric. "Early African American Print Culture and the American West" in Cohen and Stein, Early African American Print Culture. 75-89. </td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left"></td> 
