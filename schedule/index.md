@@ -114,7 +114,7 @@ Note that this schedule is subject to change. Any changes will be made here.
   </tr>
 
   <tr bgcolor="#EBF5FB">
-    <th rowspan="5">March 4, 2019 (Unit 2) <br><br> Topic: Circulation</th>
+    <th rowspan="5">March 4, 2019 (Unit 2) <br><br> Topic: Production </th>
       <td> 1. Case Study: Lisa Voigt and Elio Brancaforte. "The Traveling Illustrations of Sixteenth- Century Travel Narratives
 ." *PMLA* 129.3 (2014)365-398. </td>
       <td rowspan="5"><a href="https://vivo.brown.edu/display/hshaffer"> Guest Visit: Holly Shaffer </a> </td>
@@ -134,16 +134,16 @@ Note that this schedule is subject to change. Any changes will be made here.
   </tr>
 
   <tr bgcolor="LightGray">
-    <th rowspan="5">March 11, 2019 (Unit 2) <br><br> Topic: Authorship</th>
+    <th rowspan="5">March 11, 2019 (Unit 2) <br><br> Topic: Circulation </th>
       <td> 1.  Case Study: Corinna Zeltsman, “Defining Responsibility: Printers, Politics, and the Law in Early Republican Mexico City.” The Hispanic American Historical Review. 98, no. 2 (May 2018): 189-222. </td>
       <td rowspan="5"> Guest Visit: <a href="https://www.smith.edu/academics/faculty/dana-leibsohn">Dana Leibsohn</a> and <a href="https://arthist.jhu.edu/directory/aaron-m-hyman/">Aaron Hyman</a></td>
       <td rowspan="5">  </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left"></td>
+    <td align="left"> 3. Context: Context: Hill, Matthew. "The Book Trade in the Colonial Philippines." <i>Book History</i> 20:1 (2017). 40-82.   </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left">3. Context: Context: Hill, Matthew. "The Book Trade in the Colonial Philippines." <i>Book History</i> 20:1 (2017). 40-82.   </td>
+    <td align="left"></td>
   </tr>
   <tr bgcolor="LightGray">
     <td align="left"></td>
@@ -153,7 +153,7 @@ Note that this schedule is subject to change. Any changes will be made here.
   </tr>
 
   <tr bgcolor="#EBF5FB">
-    <th rowspan="5">March 18, 2019 (Unit 2) <br><br> Topic: Production</th>
+    <th rowspan="5">March 18, 2019 (Unit 2) <br><br> Topic: Authorship </th>
      <td> 1. Case Study: <a href="https://muse.jhu.edu/article/593051">Cobb, Jasmine Nichole. "“Forget Me Not”: Free Black Women and Sentimentality." MELUS: Multi-Ethnic Literature of the U.S., vol. 40 no. 3, 2015, pp. 28-46. </a>  </td>
     <td rowspan="5"> Guest Visit: Bertie Mandelblatt </td>
     <td rowspan="5"> First Draft: Books in Context </td>
