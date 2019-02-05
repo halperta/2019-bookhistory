@@ -140,10 +140,10 @@ Note that this schedule is subject to change. Any changes will be made here.
       <td rowspan="5">  </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left"> 3. Context: Context: Hill, Matthew. "The Book Trade in the Colonial Philippines." <i>Book History</i> 20:1 (2017). 40-82.   </td>
+    <td align="left"> 2. TK </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left"></td>
+    <td align="left"> 3. Context: Context: Hill, Matthew. "The Book Trade in the Colonial Philippines." <i>Book History</i> 20:1 (2017). 40-82.   </td>
   </tr>
   <tr bgcolor="LightGray">
     <td align="left"></td>
