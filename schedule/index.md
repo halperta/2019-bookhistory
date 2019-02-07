@@ -66,7 +66,7 @@ Note that this schedule is subject to change. Any changes will be made here.
     <td align="left">2. Theory: Eisenstein, Elizabeth. “Defining the Initial Shift.” In David Finkelstein and Alistair McCleery, eds. <i> Book History Reader</i>. Routledge, 2006. 232-254 </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">3. Context: <a href="https://www.abaa.org/member-articles/the-first-hundred-years-of-printing-in-british-north-america-printers-and-c"> William S. Reese, "The First Hundred Years of Printing in British North America: Printers and Collectors." <i>American Antiquarian Society,</i> 1990. </a> </td>
+    <td align="left">3. Context: <a href="https://www.americanantiquarian.org/proceedings/44539460.pdf"> William S. Reese, "The First Hundred Years of Printing in British North America: Printers and Collectors." <i>American Antiquarian Society,</i> 1990. </a> </td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left"></td>
