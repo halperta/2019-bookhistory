@@ -127,10 +127,10 @@ Note that this schedule is subject to change. Any changes will be made here.
     <td align="left"><a href="http://www.valeriagauz.net/images/earlyprinting.pdf">3. Context: Valeria Gauz, "Early Printing in Brazil." <i>Bulletin du Bibliophile</i> (2013).</a> </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left"></td>
+    <td align="left">4. [Suggested Reading]: Jessie Feiman, "The Matrix and the Meaning in Dürer's Rhinoceros." <i>Art in Print</i>, Vol. 2, No. 4 (2012): 22-26.</td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left"></td>
+    <td align="left">5. [Suggested Reading]: Benjamin Schmidt, "Printing the World: Processed Books and Exotic Stereotypes." In <i>Inventing Exoticism</i> (U of Pennsylvania Press, 2015). </td>
   </tr>
 
   <tr bgcolor="LightGray">
