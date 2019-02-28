@@ -135,7 +135,7 @@ Note that this schedule is subject to change. Any changes will be made here.
 
   <tr bgcolor="LightGray">
     <th rowspan="5">March 11, 2019 (Unit 2) <br><br> Topic: Circulation </th>
-      <td> 1.  Case Study: Corinna Zeltsman, “Defining Responsibility: Printers, Politics, and the Law in Early Republican Mexico City.” The Hispanic American Historical Review. 98, no. 2 (May 2018): 189-222. </td>
+      <td> 1.  Case Study: Hill, Matthew. "The Book Trade in the Colonial Philippines." <i>Book History</i> 20:1 (2017). 40-82.  </td>
       <td rowspan="5"> Guest Visit: <a href="https://www.smith.edu/academics/faculty/dana-leibsohn">Dana Leibsohn</a> and <a href="https://arthist.jhu.edu/directory/aaron-m-hyman/">Aaron Hyman</a></td>
       <td rowspan="5">  </td>
   </tr>
@@ -143,7 +143,7 @@ Note that this schedule is subject to change. Any changes will be made here.
     <td align="left"> 2. Theory: Liam Buckley, "Objects of Love and Decay: Colonial Photographs in a Postcolonial Archive." <i>Cultural Anthropology</i> 20.2 (2005): 249–270. </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left"> 3. Context: Context: Hill, Matthew. "The Book Trade in the Colonial Philippines." <i>Book History</i> 20:1 (2017). 40-82.   </td>
+    <td align="left"> 3. Context: Patricia May B. Jurilla, Story Book: Essays on the History of the Book in the Philippines. Anvill Publishing, Inc., 2013. 1-55. </td>
   </tr>
   <tr bgcolor="LightGray">
     <td align="left"></td>
@@ -213,7 +213,7 @@ Note that this schedule is subject to change. Any changes will be made here.
   <tr bgcolor="LightGray">
     <th rowspan="1">April 8, 2019 (Unit 2)</th>
     <td> Visit to Printing Studio with Erica Mena-Landry and Kalie Boyne </td>
-    <td rowspan="1"> </td>
+    <td rowspan="1"> [optional] Corinna Zeltsman, “Defining Responsibility: Printers, Politics, and the Law in Early Republican Mexico City.” The Hispanic American Historical Review. 98, no. 2 (May 2018): 189-222. </td>
     <td rowspan="1"> </td>
   </tr>
 <!--   <tr bgcolor="LightGray">
