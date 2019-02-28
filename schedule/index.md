@@ -140,7 +140,7 @@ Note that this schedule is subject to change. Any changes will be made here.
       <td rowspan="5">  </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left"> 2. Liam Buckley, "Objects of Love and Decay: Colonial Photographs in a Postcolonial Archive." <i>Cultural Anthropology</i> 20.2 (2005): 249–270. </td>
+    <td align="left"> 2. Theory: Liam Buckley, "Objects of Love and Decay: Colonial Photographs in a Postcolonial Archive." <i>Cultural Anthropology</i> 20.2 (2005): 249–270. </td>
   </tr>
   <tr bgcolor="LightGray">
     <td align="left"> 3. Context: Context: Hill, Matthew. "The Book Trade in the Colonial Philippines." <i>Book History</i> 20:1 (2017). 40-82.   </td>
