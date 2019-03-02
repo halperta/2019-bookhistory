@@ -201,7 +201,7 @@ Note that this schedule is subject to change. Any changes will be made here.
     <td align="left"><a href="https://bookriot.com/listen/worlds-glamorous-librarian/"> 2. Case Study: <b> [Podcast]</b>: The World's Most Glamorous Librarian. <i>Annotated</i> Episode 3 (July 27, 2017). </a></td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">3. Case Study: Elinor Des Verney Sinnette, “Arthur Alfonso Schomburg (1874–1938), Black Bibliophile and Collector,” in Sinnette, Coates, and Battle, Black Bibliophiles and Collectors.  </td>
+    <td align="left">3. Case Study: Laure E. Helton, "On Decimals, Catalogs, and Racial Imaginaries of Reading." <i>PMLA</i> 134.1 (2019). 99-120. </td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left"><a href="https://www.chronicle.com/article/Archiving-While-Black/243981">4. Case Study: Ashley Farmer, Archiving While Black. <i>The Chronicle of Higher Education.</i> July 22, 2018.</a> </td>
