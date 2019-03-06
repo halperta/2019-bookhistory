@@ -73,9 +73,9 @@ To be discussed during class.
 
 # Assignment 2: Books in Context
 
-In this assignment, you will continue to work with the book that you described in the previous assignment.
+In this assignment, you will continue to work with the book that you described in the previous assignment. 
 
-Imagine the class is curating a digital exhibit, and you have been asked to produce a blog post that will help visitors to the exhibit learn more about the context in which this object was created. Your audience is prospective Brown undergraduates and their families, so nobody is an expert in book history or American history. You should discuss the following:
+Imagine the class is curating a digital exhibit, and you have been asked to produce a *700-900 word* blog post that will help visitors to the exhibit learn more about the context in which this object was created. Your audience is prospective Brown undergraduates and their families, so nobody is an expert in book history or American history. You should discuss the following:
 * What is the historical context of the place where it was made: what was happening in history in that time and place? 
 * Where does this document fit in the history of the book? What was happening in general in print/manuscript/map culture, and how does this volume fit into it? Include information about who made your object and what other kinds of documents were being made at the time/place.
 * How would this book have been used? Who would have been reading or using this object? Why? What for?
@@ -84,7 +84,11 @@ Imagine the class is curating a digital exhibit, and you have been asked to prod
 
 
 *Evaluation*  
-To be discussed during class. 
+You will be evaluated according to the following criteria:
+
+* Completion: did you complete the task on time and as described in the assignment? In this case, you must offer both sociopolitical and book-specific context and provide suggestions for further research.
+* Quality: Does the work demonstrate excellence in the skills being evaluated in this assignment? In this case, we are looking for the ability to research and identify relevant historical information, to synthesize the information clearly, and to write about it concisely and in a style appropriate to the context and audience. 
+* Process: did you go through the peer review process and incorporate it into your work? Though we will not be evaluating the quality of your original draft, we will be looking for evidence of improvement after revision. We will be also be assessing your completion of the peer review for another student.
 
 
 <a href="#top">Back to top</a>
