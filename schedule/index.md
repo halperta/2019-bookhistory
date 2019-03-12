@@ -250,10 +250,10 @@ Note that this schedule is subject to change. Any changes will be made here.
     <td align="left"><a href="https://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm"> 2. Theory: Walter Benjamin, "The Work of Art in the Age of Mechanical Reproduction." 1936. </a></td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">3. Context: Mak, Bonnie. “Archaeology of a digitization.” Journal of the Association for Information Science and Technology. Volume 65, Issue 8. </td>
+    <td align="left">3. <a href="https://llilasbensonmagazine.org/2016/07/29/llilas-benson-and-the-repatriation-of-indigenous-cultural-patrimony-of-mexico/"> Context: Kelly McDonough, "LLILAS Benson and the Repatriation of Indigenous Cultural Patrimony of Mexico." <i>Portal.</i> July 29, 2016.</a> </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left">4. <a href="https://llilasbensonmagazine.org/2016/07/29/llilas-benson-and-the-repatriation-of-indigenous-cultural-patrimony-of-mexico/"> Context: Kelly McDonough, "LLILAS Benson and the Repatriation of Indigenous Cultural Patrimony of Mexico." <i>Portal.</i> July 29, 2016.</a></td>
+    <td align="left">4. [Recommended Reading]: Mak, Bonnie. “Archaeology of a digitization.” Journal of the Association for Information Science and Technology. Volume 65, Issue 8. </td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left"></td>
