@@ -156,26 +156,33 @@ Note that this schedule is subject to change. Any changes will be made here.
     <th rowspan="5">March 18, 2019 (Unit 2) <br><br> Topic: Authorship </th>
      <td> 1. Case Study: <a href="https://muse.jhu.edu/article/593051">Cobb, Jasmine Nichole. "“Forget Me Not”: Free Black Women and Sentimentality." MELUS: Multi-Ethnic Literature of the U.S., vol. 40 no. 3, 2015, pp. 28-46. </a>  </td>
     <td rowspan="5"> Guest Visit: Bertie Mandelblatt </td>
-    <td rowspan="5"> First Draft: Books in Context </td>
+    <td rowspan="5"> </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left"> 2. Theory: Roger Chartier, tk. </td>
+    <td align="left"> 2. Context: Lara Langer Cohen and Jordan Alexander Stein, "Introduction," in Early African American Print Culture. 1-16. </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left"> 3. Context: Lara Langer Cohen and Jordan Alexander Stein, "Introduction," in Early African American Print Culture. 1-16. </td>
+    <td align="left"> 3. Context: Gardner, Eric. "Early African American Print Culture and the American West" in Cohen and Stein, Early African American Print Culture. 75-89.  </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left"> 4. Context: Gardner, Eric. "Early African American Print Culture and the American West" in Cohen and Stein, Early African American Print Culture. 75-89. </td>
+    <td align="left"> </td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left"></td> 
+  </tr>
+
+  <tr bgcolor="LightGray">
+    <th rowspan="1">March 22, 2019 (Unit 2)(Friday)</th>
+    <td>  </td>
+    <td rowspan="1"> </td>
+    <td rowspan="1"> First Draft: Books in Context </td>
   </tr>
 
   <tr bgcolor="#FFDEEB">
     <th rowspan="1">March 25, 2019 (Unit 2)</th>
    <td> No Class: Spring Break </td>
     <td rowspan="1"> </td>
-    <td rowspan="1"> Peer Review: Books in Context </td>
+    <td rowspan="1"> </td>
   </tr>
 <!--   <tr bgcolor="FFDEEB">
     <td align="left"><a href=""> 2 </a></td>
@@ -195,26 +202,30 @@ Note that this schedule is subject to change. Any changes will be made here.
    <td> 1. Theory: Salvatore, Ricardo (2008). Libraries and the Legibility of Hispanic America: Early Latin American Collections in the United States.* (pp. 191-211). 
 </td>
     <td rowspan="5"> Group work workshop? </td>
-    <td rowspan="5"> Final Draft: Books in Context </td>
+    <td rowspan="5"> Peer Review: Books in Context </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left"><a href="https://bookriot.com/listen/worlds-glamorous-librarian/"> 2. Case Study: <b> [Podcast]</b>: The World's Most Glamorous Librarian. <i>Annotated</i> Episode 3 (July 27, 2017). </a></td>
+    <td align="left"> <a href="https://www.chronicle.com/article/Archiving-While-Black/243981">2. Case Study: Ashley Farmer, Archiving While Black. <i>The Chronicle of Higher Education.</i> July 22, 2018.</a> </a></td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left">3. Case Study: Laure E. Helton, "On Decimals, Catalogs, and Racial Imaginaries of Reading." <i>PMLA</i> 134.1 (2019). 99-120. </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left"><a href="https://www.chronicle.com/article/Archiving-While-Black/243981">4. Case Study: Ashley Farmer, Archiving While Black. <i>The Chronicle of Higher Education.</i> July 22, 2018.</a> </td>
+    <td align="left"><a href="https://bookriot.com/listen/worlds-glamorous-librarian/"> Suggested Reading: 4. Case Study: <b> [Podcast]</b>: The World's Most Glamorous Librarian. <i>Annotated</i> Episode 3 (July 27, 2017).  </td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left">  </td>
   </tr>
 
+
   <tr bgcolor="LightGray">
-    <th rowspan="1">April 8, 2019 (Unit 2)</th>
+    <th rowspan="2">April 8, 2019 (Unit 2)</th>
     <td> Visit to Printing Studio with Erica Mena-Landry and Kalie Boyne </td>
-    <td rowspan="1"> [optional] Corinna Zeltsman, “Defining Responsibility: Printers, Politics, and the Law in Early Republican Mexico City.” The Hispanic American Historical Review. 98, no. 2 (May 2018): 189-222. </td>
-    <td rowspan="1"> </td>
+    <td rowspan="2"> </td>
+    <td rowspan="2">  Final Draft: Books in Context  </td>
+  </tr>
+  <tr bgcolor="LightGray">
+    <td align="left">[Suggested Reading] Corinna Zeltsman, “Defining Responsibility: Printers, Politics, and the Law in Early Republican Mexico City.” The Hispanic American Historical Review. 98, no. 2 (May 2018): 189-222. </td>
   </tr>
 <!--   <tr bgcolor="LightGray">
     <td align="left"><a href=""> 2 </a></td>
