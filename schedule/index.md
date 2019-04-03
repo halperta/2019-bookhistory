@@ -218,8 +218,28 @@ Note that this schedule is subject to change. Any changes will be made here.
   </tr>
 
 
+  <tr bgcolor="#EBF5FB">
+   <th rowspan="5">April 8, 2019 (Unit 3) <br><br> Topic: Copies <br> <font color="red"> Updated 4/3 </font> </th>
+   <td> 1. Case Study: Daniela Bleichmar, "Translation, Mobility, and Mediation: The Case of the Codex Mendoza." in Susanna Burghartz, Lucas Burkart, and Christine Göttler, eds. <i>Sites of Mediation.</i> 240-269. </td>
+    <td rowspan="5"> </td>
+    <td rowspan="5"> </td>
+  </tr>
+  <tr bgcolor="EBF5FB">
+    <td align="left"><a href="https://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm"> 2. Theory: Walter Benjamin, "The Work of Art in the Age of Mechanical Reproduction." 1936. </a></td>
+  </tr>
+  <tr bgcolor="EBF5FB">
+    <td align="left">3. <a href="https://llilasbensonmagazine.org/2016/07/29/llilas-benson-and-the-repatriation-of-indigenous-cultural-patrimony-of-mexico/"> Context: Kelly McDonough, "LLILAS Benson and the Repatriation of Indigenous Cultural Patrimony of Mexico." <i>Portal.</i> July 29, 2016.</a> </td>
+  </tr>
+  <tr bgcolor="EBF5FB">
+    <td align="left">4. [Recommended Reading]: Mak, Bonnie. “Archaeology of a digitization.” Journal of the Association for Information Science and Technology. Volume 65, Issue 8. </td>
+  </tr>
+  <tr bgcolor="EBF5FB">
+    <td align="left"></td>
+  </tr>
+
+
   <tr bgcolor="LightGray">
-    <th rowspan="2">April 8, 2019 (Unit 2)</th>
+    <th rowspan="2">April 15, 2019 (Unit 2)</th>
     <td> Visit to Printing Studio with Erica Mena-Landry and Kalie Boyne </td>
     <td rowspan="2"> </td>
     <td rowspan="2">  Final Draft: Books in Context  </td>
@@ -240,24 +260,7 @@ Note that this schedule is subject to change. Any changes will be made here.
     <td align="left">5 </td>
   </tr> -->
 
-  <tr bgcolor="#EBF5FB">
-   <th rowspan="5">April 15, 2019 (Unit 3) <br><br> Topic: Copies </th>
-   <td> 1. Case Study: Daniela Bleichmar, "Translation, Mobility, and Mediation: The Case of the Codex Mendoza." in Susanna Burghartz, Lucas Burkart, and Christine Göttler, eds. <i>Sites of Mediation.</i> 240-269. </td>
-    <td rowspan="5"> </td>
-    <td rowspan="5"> </td>
-  </tr>
-  <tr bgcolor="EBF5FB">
-    <td align="left"><a href="https://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm"> 2. Theory: Walter Benjamin, "The Work of Art in the Age of Mechanical Reproduction." 1936. </a></td>
-  </tr>
-  <tr bgcolor="EBF5FB">
-    <td align="left">3. <a href="https://llilasbensonmagazine.org/2016/07/29/llilas-benson-and-the-repatriation-of-indigenous-cultural-patrimony-of-mexico/"> Context: Kelly McDonough, "LLILAS Benson and the Repatriation of Indigenous Cultural Patrimony of Mexico." <i>Portal.</i> July 29, 2016.</a> </td>
-  </tr>
-  <tr bgcolor="EBF5FB">
-    <td align="left">4. [Recommended Reading]: Mak, Bonnie. “Archaeology of a digitization.” Journal of the Association for Information Science and Technology. Volume 65, Issue 8. </td>
-  </tr>
-  <tr bgcolor="EBF5FB">
-    <td align="left"></td>
-  </tr>
+
 
   <tr bgcolor="LightGray">
     <th rowspan="5">April 22, 2019 (Unit 3) <br><br> Topic: Digital </th>
