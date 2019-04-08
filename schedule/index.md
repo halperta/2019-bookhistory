@@ -221,7 +221,7 @@ Note that this schedule is subject to change. Any changes will be made here.
   <tr bgcolor="LightGray">
    <th rowspan="5">April 8, 2019 (Unit 3) <br><br> Topic: Copies <br><br> <font color="red"> Updated 4/3 </font> </th>
    <td> 1. Case Study: Daniela Bleichmar, "Translation, Mobility, and Mediation: The Case of the Codex Mendoza." in Susanna Burghartz, Lucas Burkart, and Christine Göttler, eds. <i>Sites of Mediation.</i> 240-269. </td>
-    <td rowspan="5"> </td>
+    <td rowspan="5"> Final Draft: Books in Context </td>
     <td rowspan="5"> </td>
   </tr>
   <tr bgcolor="LightGray">
@@ -234,7 +234,7 @@ Note that this schedule is subject to change. Any changes will be made here.
     <td align="left">4. [Recommended Reading]: Mak, Bonnie. “Archaeology of a digitization.” Journal of the Association for Information Science and Technology. Volume 65, Issue 8. </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left"> Final Draft: Books in Context </td>
+    <td align="left">  </td>
   </tr>
 
 
