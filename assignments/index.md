@@ -95,21 +95,22 @@ You will be evaluated according to the following criteria:
 
 # Assignment 3: Curated Exhibition
 
-As a class, you will be designing a curated exhibit to be displayed at the JCB at the end of the semester. The topic of the exhibit, to be developed over the course of the semester, will be aligned with [a campus-wide seminar on “Race and Indigeneity in the Americas,”](https://watson.brown.edu/clacs/sawyer-seminar-series) a Mellon Foundation-funded seminar sponsored by the Center for Latin American and Caribbean Studies at Brown.  
+As a class, you will be designing a curated exhibition to be displayed at the JCB at the end of the semester. The topic of the exhibition will be aligned with [a campus-wide seminar on “Race and Indigeneity in the Americas,”](https://watson.brown.edu/clacs/sawyer-seminar-series) a Mellon Foundation-funded seminar sponsored by the Center for Latin American and Caribbean Studies at Brown.  
 
-For this assignment, you will work as part of a team of four people to develop small exhibits based on the broader theme. Each student is responsible for selecting a single book from the JCB collection to research and display in the exhibition. 
-
+For this assignment, you will work as part of a team of three people to develop small exhibits based on the broader theme. Each student is responsible for selecting a single book from the JCB collection to research and display in the exhibition. This should be different from the book you worked with previously.  
 
 *Team Responsibilities*  
 * Identifying a theme that unites the documents in your collection.
 * Deciding on a narrative for the books in your subset of the collection: what story do you want to tell about the history of the book?
 * Selecting the order of the books and the features of each book that you want to display. Remember that visitors might move sequentially through the exhibit, or randomly enter in the middle.
 * Writing a curator’s note for your collection: 1-2 pages total that provides background information for your part of the exhibit and explains how it fits into the broader theme.
-* Presenting your work in the form of an “exhibition show and tell” on the final day of class and incorporating feedback into revised exhibit labels.
+* Presenting your work in the form of an “exhibition show and tell” on the final day of class and incorporating feedback into revised exhibit labels. You will have twenty minutes to present as a group.
 
 
 *Individual Responsibilities*
-* Exhibit labels: 1-2 paragraphs for your chosen book that describes its context and the reason it has been put on display.
+* Choosing a book that is appropriate to the theme and the exhibition space.
+* Selecting a page or image from a page to be photographed and presented next to the volume that demonstrates something significant from the book.
+* Exhibition labels: 1-2 paragraphs for your chosen book that describes its context and the reason it has been put on display.
 * Book report: 300-500 word discussion of the book you chose that summarizes its material properties, its historical context, and its relevance to the exhibition.
 * Reflection: 300-500 words in which you reflect on 2-3 main challenges of designing the exhibition and 2-3 main takeaways from designing the exhibition
 
