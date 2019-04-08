@@ -234,7 +234,7 @@ Note that this schedule is subject to change. Any changes will be made here.
     <td align="left">4. [Recommended Reading]: Mak, Bonnie. “Archaeology of a digitization.” Journal of the Association for Information Science and Technology. Volume 65, Issue 8. </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left"></td>
+    <td align="left"> Final Draft: Books in Context </td>
   </tr>
 
 
@@ -242,7 +242,7 @@ Note that this schedule is subject to change. Any changes will be made here.
     <th rowspan="2">April 15, 2019 (Unit 2)</th>
     <td> Visit to Printing Studio with Erica Mena-Landry and Kalie Boyne </td>
     <td rowspan="2"> </td>
-    <td rowspan="2">  Final Draft: Books in Context  </td>
+    <td rowspan="2">   </td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left">[Suggested Reading] Corinna Zeltsman, “Defining Responsibility: Printers, Politics, and the Law in Early Republican Mexico City.” The Hispanic American Historical Review. 98, no. 2 (May 2018): 189-222. </td>
