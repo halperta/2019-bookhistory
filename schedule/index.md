@@ -283,12 +283,12 @@ Note that this schedule is subject to change. Any changes will be made here.
 
   <tr bgcolor="#EBF5FB">
    <th rowspan="5">April 29, 2019 (Unit 3) <br><br> Topic: Curation</th>
-   <td> ~~1. David Thomas, Simon Fowler, and Valerie Johnson. The Silence of the Archive. Chapter 1.~~ </td>
+   <td> <strike>1. David Thomas, Simon Fowler, and Valerie Johnson. The Silence of the Archive. Chapter 1.</strike> </td>
     <td rowspan="5"> </td>
     <td rowspan="5"> </td>
   </tr>
   <tr bgcolor="EBF5FB">
-    <td align="left"><a href="https://rbm.acrl.org/index.php/rbm/article/view/391/391"> ~~2. John Overholt, "Five Theses on the Future of Special Collections." RBM 13.1 (2013).~~ </a></td>
+    <td align="left"><a href="https://rbm.acrl.org/index.php/rbm/article/view/391/391"> <strike>2. John Overholt, "Five Theses on the Future of Special Collections." RBM 13.1 (2013).</strike> </a></td>
   </tr>
   <tr bgcolor="EBF5FB">
     <td align="left"><font color="red">No required readings today</font></td>
