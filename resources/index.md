@@ -6,6 +6,7 @@ Image:
 
 # Final Resources
 * [List of rare books shown during workshop (downloads as an excel spreadsheet)](../pdf/JCBBookHistory-resources.xlsx)
+* [List of books shown in the final exhibition (downloads as an excel spreadsheet)](../pdf/exhibitionBooks.xlsx)
 
 # John Carter Brown Library Resources
 * [Aeon website](https://jcbl.aeon.atlas-sys.com/aeon.dll) (for reading room requests).
