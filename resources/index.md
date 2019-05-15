@@ -4,6 +4,9 @@ title: Resources
 Image:
 ---
 
+# Final Resources
+* [List of rare books shown during workshop (downloads as an excel spreadsheet)](../pdf/JCBBookHistory-resources.xlsx)
+
 # John Carter Brown Library Resources
 * [Aeon website](https://jcbl.aeon.atlas-sys.com/aeon.dll) (for reading room requests).
 * [JCB Library Website](https://www.brown.edu/academics/libraries/john-carter-brown/).
