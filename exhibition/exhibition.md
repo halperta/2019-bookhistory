@@ -18,27 +18,31 @@ Curated collectively by undergraduate students in History 1954J: History of the 
 
 *Controlling Colonial Impressions* is open to the public at the John Carter Brown Library, May 15 - July 1, 2019.
 
-[![left-aligned-image](/images/exhibit/historical.jpg){: .align-left }{: height="100px" width="300px"}](exhibition/iconography/)
+[![left-aligned-image](/images/exhibit/historical.jpg){: .align-left }{: height="100px" width="300px"}](iconography/)
 
-# [Section 1: <br> Iconography of Race in the British Atlantic](exhibition/iconography/)
+# [Section 1: <br> Iconography of Race in the British Atlantic](iconography/)
+Curated by Will Evans, Hal Triedman & Zoe Zimmermann
 <br>
 <br>
 
-[![left-aligned-image](/images/exhibit/historical.jpg){: .align-left }{: height="100px" width="300px"}](exhibition/iconography/)
+[![left-aligned-image](/images/exhibit/practicalrules.jpg){: .align-left }{: height="100px" width="300px"}](objectivity/)
 
-# Section 2: “Objective” Texts: Race and Indigeneity in Scientific Books
+# [Section 2: “Objective” Texts:<br> Race and Indigeneity in Scientific Books](objectivity/)
+Curated by N. Allen, Mark Chih-Wei Liang & Jamie Solomon
 <br>
 <br>
 
-[![left-aligned-image](/images/exhibit/historical.jpg){: .align-left }{: height="100px" width="300px"}](exhibition/iconography/)
+[![left-aligned-image](/images/exhibit/primer-banner.jpg){: .align-left }{: height="100px" width="300px"}](imaging/)
 
-# Section 3: Imagining and Imaging Colonial Subjects
+# [Section 3:<br> Imagining and Imaging Colonial Subjects](imaging/)
+Curated by Tobias Berggruen, Sean Briody & Caroline Mulligan
 <br>
 <br>
 
-[![left-aligned-image](/images/exhibit/historical.jpg){: .align-left }{: height="100px" width="300px"}](exhibition/iconography/)
+[![left-aligned-image](/images/exhibit/theologia.jpg){: .align-left }{: height="100px" width="300px"}](controlling/)
 
-# Section 4: Means of Control
+# [Section 4:<br> Means of Control](controlling/)
+Curated by Hannah Alpert-Abrams, Neil Safier & Stijn van Rossem
 
 <!-- <figure class="align-center">
   <a href="/exhibition/home/"><img src="{{ '/images/exhibit/primer-banner.jpg' | absolute_url }}" alt="woodcut of students in a classroom" ></a>
