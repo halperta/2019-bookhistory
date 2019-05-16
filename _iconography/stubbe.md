@@ -1,7 +1,7 @@
 ---
 title: "Neglecting Race in the Chocolate Trade"
 layout: post
-excerpt: "Henry Stubbe, *The Indian nectar, or A discourse concerning chocolata.* London: James Cottrell, 1662."
+excerpt: "Henry Stubbe, The Indian nectar, or A discourse concerning chocolata. London: James Cottrell, 1662."
 author: zoe
 image: 
   path: /images/exhibit/indiannectar.jpg

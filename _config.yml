@@ -81,7 +81,16 @@ collections:
   #   permalink: /:collection/:path/
   iconography:
     output: true
-    permalink: /:collection/:path/
+    permalink: exhibition/:collection/:path/
+  objectivity:
+    output: true
+    permalink: exhibition/:collection/:path/
+  imaging:
+    output: true
+    permalink: exhibition/:collection/:path/
+  controlling:
+    output: true
+    permalink: exhibition/:collection/:path/
 
 # Front Matter Defaults
 defaults:
@@ -102,6 +111,27 @@ defaults:
   - scope:
       path: "_iconography"
       type: iconography
+    values:
+      layout: post
+      comments: false
+      share: true
+  - scope:
+      path: "_objectivity"
+      type: objectivity
+    values:
+      layout: post
+      comments: false
+      share: true
+  - scope:
+      path: "_imaging"
+      type: imaging
+    values:
+      layout: post
+      comments: false
+      share: true
+  - scope:
+      path: "_controlling"
+      type: controlling
     values:
       layout: post
       comments: false

@@ -1,7 +1,7 @@
 ---
 title: "Toussaint L’Ouverture and the Iconography of the Haitian Revolution"
 layout: post
-excerpt: "Marcus Rainsford, *An historical account of the black empire of Hayti.* London: James Cundee, 1805."
+excerpt: "Marcus Rainsford, An historical account of the black empire of Hayti. London: James Cundee, 1805."
 author: hal
 image: 
   path: images/exhibit/historical.jpg
