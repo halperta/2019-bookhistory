@@ -5,7 +5,7 @@ halperta:
   web: http://www.halperta.com
   email: halperta@gmail.com
   bio: Postdoctoral Fellow, JCB Library
-  avatar: HannahRed.jpg
+  avatar: images/HannahRed.jpg
   twitter: hralperta
   google:
     plus: 
@@ -28,3 +28,83 @@ svanrossem:
   google:
     plus: 
 
+zoe:
+  name: Zoe Zimmermann 
+  email: zoe_zimmermann@brown.edu
+  bio: 
+  avatar: 
+  twitter: 
+  google:
+    plus: 
+
+will:
+  name: William Evans
+  email: 
+  bio: 
+  avatar: 
+  twitter: 
+  google:
+    plus: 
+
+hal:
+  name: Hal Triedman
+  email: 
+  bio: 
+  avatar: 
+  twitter: 
+  google:
+    plus:
+
+mark:
+  name: Mark Chih-Wei Liang
+  email: 
+  bio: 
+  avatar: 
+  twitter: 
+  google:
+    plus: 
+
+nathan:
+  name: N. Allen
+  email: 
+  bio: 
+  avatar: 
+  twitter: 
+  google:
+    plus: 
+
+jamie:
+  name: Jamie Solomon
+  email: 
+  bio: 
+  avatar: 
+  twitter: 
+  google:
+    plus:  
+
+toby:
+  name: Tobias Berggruen
+  email: 
+  bio: 
+  avatar: 
+  twitter: 
+  google:
+    plus: 
+
+sean:
+  name: Sean Briody
+  email: 
+  bio: 
+  avatar: 
+  twitter: 
+  google:
+    plus: 
+
+caroline:
+  name: Caroline Mulligan
+  email: 
+  bio: 
+  avatar: 
+  twitter: 
+  google:
+    plus:
