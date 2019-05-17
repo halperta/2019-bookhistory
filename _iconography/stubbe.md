@@ -4,8 +4,8 @@ layout: post
 excerpt: "Henry Stubbe, The Indian nectar, or A discourse concerning chocolata. London: James Cottrell, 1662."
 author: zoe
 image: 
-  path: /images/exhibit/indiannectar.jpg
-  thumbnail: /images/exhibit/indiannectar.jpg
+  path: images/exhibit/indiannectar.jpg
+  thumbnail: images/exhibit/indiannectar.jpg
 categories:
   - Iconography
 ---

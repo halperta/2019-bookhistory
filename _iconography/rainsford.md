@@ -5,7 +5,7 @@ excerpt: "Marcus Rainsford, An historical account of the black empire of Hayti. 
 author: hal
 image: 
   path: images/exhibit/historical.jpg
-  thumbnail: /images/exhibit/historical.jpg
+  thumbnail: images/exhibit/historical.jpg
 categories:
   - Iconography
 ---

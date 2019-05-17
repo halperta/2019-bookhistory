@@ -5,7 +5,7 @@ excerpt: "Juan Bautista, Aduertencias. Para los confessores de los naturales. Tl
 author: halperta
 image: 
   path: images/exhibit/aduertencias.jpg
-  thumbnail: /images/exhibit/aduertencias.jpg
+  thumbnail: images/exhibit/aduertencias.jpg
 categories:
   - Controlling
 ---

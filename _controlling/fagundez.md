@@ -5,8 +5,8 @@ author: svanrossem
 excerpt: "Stephanus Fagundez, De justitia, & contractibus, & de acquisitione, & translatione dominii, libri septem.
 Lyon: Laurent Anisson, 1641."
 image: 
-  path: /images/exhibit/theologia.jpg
-  thumbnail: /images/exhibit/theologia.jpg
+  path: images/exhibit/theologia.jpg
+  thumbnail: images/exhibit/theologia.jpg
   caption: ""
 categories:
   - Controlling

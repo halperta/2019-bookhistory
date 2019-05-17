@@ -4,8 +4,8 @@ layout: post
 author: will
 excerpt: "Thomas Harriot, A briefe and true report of the new found land of Virginia. Frankfurt: Theodor de Bry, 1590."
 image: 
-  path: /images/exhibit/briefetruereport.jpg
-  thumbnail: /images/exhibit/briefetruereport.jpg
+  path: images/exhibit/briefetruereport.jpg
+  thumbnail: images/exhibit/briefetruereport.jpg
   caption: ""
 categories:
   - Iconography
