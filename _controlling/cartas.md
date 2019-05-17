@@ -14,6 +14,8 @@ Chocolate is a popular treat around the world today, but 400 years ago, it was a
 
 This book paints chocolate as a miracle substance, constantly drawing upon its “unquestionable nourishment.” By the end of this book, readers would have been left with an even greater curiosity about chocolate and perhaps a desire to acquire some for themselves, which would directly contribute to the growth of Britain’s economic interests in the Americas. However, it never addresses slavery or the brutality of cacao extraction. This book, ultimately being an elaborate advertisement for trade with the New World and further colonization, demonstrates how Europeans were attracted to the exotic elements of Native culture but neglected to understand the realities of Native life.
 
+[Return to Exhibition](/2019-bookhistory/exhibition/)
+
 [*Cartas que escribio, con ocasion de la derrota del rebelde Tupac-maro.* Buenos Aires: Real Imprenta de los Ninos Expositos, 1781.](https://search.library.brown.edu/catalog/b8201856)
 
 [*Coleccion de instrucciones pastorales, que en diferentes ocasiones, y con varios motivos.* En Madrid: Imprenta Real, 1786.](https://search.library.brown.edu/catalog/b3017900)

@@ -19,5 +19,7 @@ This publication on the fairness of contracts, acquisitions, and possessions, wr
 Drawing from Aristotle, civil and canon law, and the Holy Scriptures, Fagundez argues that the sale of a
 human should be legal when one was captured in a just war, had committed certain crimes, or was born in slavery. Scholars like Fagundez facilitated the slave trade further by stating that it was not the responsibility of the slave trader to check the legality of a sale in case of doubt and that testimonies of the enslaved were not accepted as evidence in these cases.
 
+[Return to Exhibition](/2019-bookhistory/exhibition/)
+
 [Stephanus Fagundez, *De justitia, & contractibus, & de acquisitione, & translatione dominii, libri septem.*
 Lyon: Laurent Anisson, 1641.](https://search.library.brown.edu/catalog/b8199765)

@@ -16,4 +16,6 @@ The book’s frontispiece attests to the performative aspects of Williamson’s 
 its figuration both the frontispiece to Daniel Defoe’s Robinson Crusoe and a widely circulated illustration
 of a Mohawk warrior, it depicts Williamson in “Indian” dress: he dons an elaborate feathered headdress, wears moccasins for shoes, and brandishes a tomahawk. This tells us a great deal about the proclivities of the English audiences who consumed Williamson’s tale: they wanted a tangible yet familiar image of the Native.
 
+[Return to Exhibition](/2019-bookhistory/exhibition/)
+
 [Peter Williamson, *French and Indian cruelty.* London: printed for the unfortunate author, and sold by R. Griffiths, 1759.](https://search.library.brown.edu/catalog/b3162377)

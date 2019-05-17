@@ -14,4 +14,9 @@ categories:
 
 While ostensibly a purely scientific work, *O fazendeiro* plays an interesting role in codifying labor across lines of race, class, and gender. The annotations shown here accompany an engraving discussing the planting and harvesting of indigo as a dye—men (negros) and women (negras) can be distinguished both by their appearance and the text’s annotations, delegated to different agricultural roles throughout the process. Are these people enslaved? How is agency partitioned when black bodies are indexed next to common tools like the hoe and the plow?
 
+[Return to Exhibition](/2019-bookhistory/exhibition/)
+
+<!-- https://archive.org/details/ofazendeirodobra03vell/page/n295 -->
+<iframe src="https://archive.org/details/ofazendeirodobra03vell/?ui=embed#mode/2up/page/295" width="675px" height="600px"></iframe>
+
 [José Mariano da Conceição Velloso, *O fazendeiro do Brazil.* Volume 2, part 2. Lisboa: Na Regia officina typografica, 1800.](https://search.library.brown.edu/catalog/b2226478)

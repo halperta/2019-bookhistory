@@ -18,4 +18,9 @@ the more insidious side of his work, namely the ways in which this ostensibly be
 
 Comparing the contrast between the historical violence inherent in his observations about the enslaved woman with his almost aggressively objective observations about the weather (pictured here) shows an insidiously equalizing regime reducing her experience to a statistic.
 
+[Return to Exhibition](/2019-bookhistory/exhibition/)
+
+<!-- https://archive.org/details/tratadosobrelafi00snch/page/134 -->
+<iframe src="https://archive.org/details/tratadosobrelafi00snch/?ui=embed#mode/2up/page/134" width="675px" height="600px"></iframe>
+
 [Marcos Sánchez Rubio, Tratado sobre la fiebre biliosa y otras enfermedades. Habana, Cuba: En la imprenta del Comercio, 1814.](https://search.library.brown.edu/catalog/b3290078)

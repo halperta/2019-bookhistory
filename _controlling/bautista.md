@@ -16,4 +16,9 @@ By regulating religious practice in the Americas, books like the Advertencias il
 
 The Advertencias is bound with the more celebrated *Confessionario* (1599) in a modern binding, with ownership marks of Nicolas León and the Colegio de San Gregorio, Mexico.
 
+[Return to Exhibition](/2019-bookhistory/exhibition/)
+
+<!-- https://archive.org/details/aduertenciaspara00juan/page/n61 -->
+<iframe src="https://archive.org/details/aduertenciaspara00juan/?ui=embed#mode/2up/page/61" width="675px" height="600px"></iframe>
+
 [Juan Bautista, *Aduertencias. Para los confessores de los naturales.* Tlatelolco: M. Ocharte, 1600.](https://search.library.brown.edu/catalog/b3289740)
