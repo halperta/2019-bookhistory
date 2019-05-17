@@ -23,14 +23,14 @@ Curated collectively by undergraduate students in History 1954J: History of the 
 [![left-aligned-image](../images/exhibit/historical.jpg){: .align-left }{: height="100px" width="300px"}](iconography/)
 
 ## [Section 1: <br> Iconography of Race in the British Atlantic](iconography/)
-Curated by Will Evans, Hal Triedman & Zoe Zimmermann
+Curated by William Evans, Harold Triedman & Zoe Zimmermann
 <br>
 <br>
 
 [![left-aligned-image](../images/exhibit/practicalrules.jpg){: .align-left }{: height="100px" width="300px"}](objectivity/)
 
 ## [Section 2: “Objective” Texts:<br> Race and Indigeneity in Scientific Books](objectivity/)
-Curated by N. Allen, Mark Chih-Wei Liang & Jamie Solomon
+Curated by Nathan Allen, Mark Liang & Jamie Solomon
 <br>
 <br>
 
@@ -54,7 +54,7 @@ Curated by Hannah Alpert-Abrams, Neil Safier & Stijn van Rossem
 # About This Exhibition
 This exhibition was curated by undergraduate students in HIST 1954J: The History of the Book in the Americas and Beyond (Spring, 2019), taught by Neil Safier, Stijn van Rossem, and Hannah Alpert-Abrams. It was designed as a companion to the Sawyer Seminar on Race and Indigeneity in the Americas. It benefitted from the support of John Carter Brown Library staff Tara Kingsley and Gabriela P. Cantú (programming and outreach), John Minichiello and Donna Dorvick (digitization), and Valerie Andrews, Kim Nusco, and Samara Ayvazian-Hancock (research and reference).
 
-Curators: Nathan Allen, Tobias Berggruen, Sean Briody, Will Evans, Mark Chih-Wei Liang, Caroline Mulligan, Jamie Solomon, Hal Triedman, & Zoe Zimmermann.
+Curators: Nathan Allen, Tobias Berggruen, Sean Briody, William Evans, Mark Liang, Caroline Mulligan, Jamie Solomon, Harold Triedman, & Zoe Zimmermann.
 
 
 

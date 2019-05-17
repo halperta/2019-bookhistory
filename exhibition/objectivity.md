@@ -6,7 +6,7 @@ collection: objectivity
 show_excerpts: yes
 entries_layout: grid
 ---
-*Curated by N. Allen, Mark Chih-Wei Liang & Jamie Solomon*
+*Curated by Nathan Allen, Mark Liang & Jamie Solomon*
 
 In the JCB there are many texts which claim scientific objectivity. For many Europeans, The New World was viewed as a place of experimentation, innovation, and technological advancement. Through books such as the ones presented here, doctors and naturalists disseminated medical and scientific knowledge, often for the express purposes of the Crown. These books observe a wide range of geographic focus and topical material, from the Caribbean to Brazil, medicine to farming.
 

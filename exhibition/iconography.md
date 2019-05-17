@@ -6,7 +6,7 @@ collection: iconography
 show_excerpts: yes
 entries_layout: grid
 ---
-*Curated by Will Evans, Hal Triedman & Zoe Zimmermann*
+*Curated by William Evans, Harold Triedman & Zoe Zimmermann*
 
 Race can be a way of seeing, and racial imagery can both construct exploitative worldviews and free us from them. These books, written about the Americas for European audiences, deal with the shifting iconography of race in the Atlantic world. They demonstrate how writers and publishers deployed a balance of the familiar and the exotic befitting their interests in their depictions of race. 
 
