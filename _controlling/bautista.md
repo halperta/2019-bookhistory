@@ -1,5 +1,5 @@
 ---
-title: "4.2 Religion and Conversion"
+title: "Religion and Conversion"
 layout: post
 excerpt: "Juan Bautista, Aduertencias. Para los confessores de los naturales. Tlatelolco: M. Ocharte, 1600."
 author: halperta

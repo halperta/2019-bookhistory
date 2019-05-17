@@ -1,5 +1,5 @@
 ---
-title: "4.3 Letters that Controlled Opinion against Indigenous Rule"
+title: "Letters that Controlled Opinion against Indigenous Rule"
 layout: post
 excerpt: "Cartas que escribio, con ocasion de la derrota del rebelde Tupac-maro. Buenos Aires: Real Imprenta de los Ninos Expositos, 1781."
 author: nsafier
