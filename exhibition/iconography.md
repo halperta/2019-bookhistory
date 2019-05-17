@@ -1,6 +1,6 @@
 ---
 title: Iconography of Race in the British Atlantic
-permalink: exhibition/iconography
+<!-- permalink: exhibition/iconography -->
 layout: collection
 collection: iconography
 show_excerpts: yes
