@@ -23,4 +23,4 @@ The Advertencias is bound with the more celebrated *Confessionario* (1599) in a 
 
 # Citation
 
-Juan Bautista, *Aduertencias. Para los confessores de los naturales.* Tlatelolco: M. Ocharte, 1600. [*`[Catalogue Entry.]`*](https://search.library.brown.edu/catalog/b3289740) [\[*archive.org*\]](https://archive.org/details/aduertenciaspara00juan)
+Juan Bautista, *Aduertencias. Para los confessores de los naturales.* Tlatelolco: M. Ocharte, 1600. [[\[*Catalogue Entry.*\]](https://search.library.brown.edu/catalog/b3289740) [\[*archive.org*\]](https://archive.org/details/aduertenciaspara00juan)
