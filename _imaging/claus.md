@@ -21,4 +21,6 @@ The picture shows the purpose of the primer: to impose European notions of liter
 <!-- https://archive.org/details/primerforuseofmo00clau/page/20 -->
 <iframe src="https://archive.org/details/primerforuseofmo00clau/?ui=embed#mode/2up/page/20" width="675px" height="600px"></iframe>
 
-[Daniel Claus, A primer for the use of the Mohawk children = Waerighwaghsawe iksaongoenwa. Tsiwaondad-derighhonny kaghyadoghsera. London: C. Buckton (1786).](https://search.library.brown.edu/catalog/b5711903)
+# Citation
+
+Daniel Claus, A primer for the use of the Mohawk children = Waerighwaghsawe iksaongoenwa. Tsiwaondad-derighhonny kaghyadoghsera. London: C. Buckton (1786).[\[*Catalogue Entry*\]](https://search.library.brown.edu/catalog/b5711903) [\[*archive.org*\]](https://archive.org/details/primerforuseofmo00clau/)

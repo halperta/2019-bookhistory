@@ -19,4 +19,6 @@ The pages on display show a list of drugs and medical treatments that Dr. Collin
 <!-- https://archive.org/details/practicalrulesfo00coll/page/467 -->
 <iframe src="https://archive.org/details/practicalrulesfo00coll/?ui=embed#mode/2up/page/467" width="675px" height="600px"></iframe>
 
-[A Professional Planter [= David Collins], *Practical rules for the management and medical treatment of Negro slaves, in the sugar colonies.* London : J. Barfield, 1803.](https://search.library.brown.edu/catalog/b4984272)
+# Citation
+
+A Professional Planter [= David Collins], *Practical rules for the management and medical treatment of Negro slaves, in the sugar colonies.* London : J. Barfield, 1803.[\[*Catalogue Entry*\]](https://search.library.brown.edu/catalog/b4984272)[\[*archive.org*\]](https://archive.org/details/practicalrulesfo00coll)

@@ -23,4 +23,6 @@ Comparing the contrast between the historical violence inherent in his observati
 <!-- https://archive.org/details/tratadosobrelafi00snch/page/128 -->
 <iframe src="https://archive.org/details/tratadosobrelafi00snch/?ui=embed#mode/2up/page/128" width="675px" height="600px"></iframe>
 
-[Marcos Sánchez Rubio, Tratado sobre la fiebre biliosa y otras enfermedades. Habana, Cuba: En la imprenta del Comercio, 1814.](https://search.library.brown.edu/catalog/b3290078)
+# Citation
+
+Marcos Sánchez Rubio, Tratado sobre la fiebre biliosa y otras enfermedades. Habana, Cuba: En la imprenta del Comercio, 1814.[\[*Catalogue Entry*\]](https://search.library.brown.edu/catalog/b3290078) [\[*archive.org*\]](https://archive.org/details/tratadosobrelafi00snch)

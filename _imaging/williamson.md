@@ -18,4 +18,6 @@ of a Mohawk warrior, it depicts Williamson in “Indian” dress: he dons an ela
 
 [Return to Exhibition](/2019-bookhistory/exhibition/)
 
-[Peter Williamson, *French and Indian cruelty.* London: printed for the unfortunate author, and sold by R. Griffiths, 1759.](https://search.library.brown.edu/catalog/b3162377)
+# Citation
+
+Peter Williamson, *French and Indian cruelty.* London: printed for the unfortunate author, and sold by R. Griffiths, 1759.[\[*Catalogue Entry*\]](https://search.library.brown.edu/catalog/b3162377)

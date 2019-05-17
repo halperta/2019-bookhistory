@@ -16,4 +16,6 @@ This book paints chocolate as a miracle substance, constantly drawing upon its â
 
 [Return to Exhibition](/2019-bookhistory/exhibition/)
 
-[Henry Stubbe, *The Indian nectar, or A discourse concerning chocolata.* London: James Cottrell, 1662.](https://search.library.brown.edu/catalog/b4698948)
+# Citation
+
+Henry Stubbe, *The Indian nectar, or A discourse concerning chocolata.* London: James Cottrell, 1662.[\[*Catalogue Entry*\]](https://search.library.brown.edu/catalog/b4698948)

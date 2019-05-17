@@ -16,6 +16,8 @@ This book paints chocolate as a miracle substance, constantly drawing upon its â
 
 [Return to Exhibition](/2019-bookhistory/exhibition/)
 
-[*Cartas que escribio, con ocasion de la derrota del rebelde Tupac-maro.* Buenos Aires: Real Imprenta de los Ninos Expositos, 1781.](https://search.library.brown.edu/catalog/b8201856)
+# Citation
 
-[*Coleccion de instrucciones pastorales, que en diferentes ocasiones, y con varios motivos.* En Madrid: Imprenta Real, 1786.](https://search.library.brown.edu/catalog/b3017900)
+*Cartas que escribio, con ocasion de la derrota del rebelde Tupac-maro.* Buenos Aires: Real Imprenta de los Ninos Expositos, 1781. [\[*Catalogue Entry.*\]](https://search.library.brown.edu/catalog/b8201856)
+
+*Coleccion de instrucciones pastorales, que en diferentes ocasiones, y con varios motivos.* En Madrid: Imprenta Real, 1786.[\[*Catalogue Entry*\]](https://search.library.brown.edu/catalog/b3017900)

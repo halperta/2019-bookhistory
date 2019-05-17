@@ -19,4 +19,6 @@ While ostensibly a purely scientific work, *O fazendeiro* plays an interesting r
 <!-- https://archive.org/details/ofazendeirodobra03vell/page/n295 -->
 <iframe src="https://archive.org/details/ofazendeirodobra03vell/?ui=embed#mode/2up/page/295" width="675px" height="600px"></iframe>
 
-[José Mariano da Conceição Velloso, *O fazendeiro do Brazil.* Volume 2, part 2. Lisboa: Na Regia officina typografica, 1800.](https://search.library.brown.edu/catalog/b2226478)
+# Citation
+
+José Mariano da Conceição Velloso, *O fazendeiro do Brazil.* Volume 2, part 2. Lisboa: Na Regia officina typografica, 1800. [\[*Catalogue Entry*\]](https://search.library.brown.edu/catalog/b2226478) [\[*archive.org*\]](https://archive.org/details/ofazendeirodobra03vell/)

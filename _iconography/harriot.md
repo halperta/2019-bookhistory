@@ -22,4 +22,6 @@ Significantly, de Bry substituted en- gravings for the watercolor paintings of t
 <!-- https://archive.org/details/briefetruereport00harr/page/n71 -->
 <iframe src="https://archive.org/details/briefetruereport00harr/?ui=embed#mode/2up/page/n71" width="675px" height="600px"></iframe>
 
-[Thomas Harriot, *A briefe and true report of the new found land of Virginia.* Frankfurt: Theodor de Bry, 1590.](https://search.library.brown.edu/catalog/b7581161)
+# Citation
+
+Thomas Harriot, *A briefe and true report of the new found land of Virginia.* Frankfurt: Theodor de Bry, 1590.[\[*Catalogue Entry*\]](https://search.library.brown.edu/catalog/b7581161)[\[*archive.org*\]](https://archive.org/details/briefetruereport00harr/)

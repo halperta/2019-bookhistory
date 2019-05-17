@@ -19,4 +19,6 @@ The graphic etchings at the beginning of this book are one of its most striking 
 <!-- https://archive.org/details/historicalaccoun00rain/page/n25 -->
 <iframe src="https://archive.org/details/historicalaccoun00rain/?ui=embed#mode/2up/page/n25" width="675px" height="600px"></iframe>
 
-[Marcus Rainsford, *An historical account of the black empire of Hayti.* London: James Cundee, 1805.](https://search.library.brown.edu/catalog/b4042716)
+# Citation
+
+Marcus Rainsford, *An historical account of the black empire of Hayti.* London: James Cundee, 1805.[\[*Catalogue Entry*\]](https://search.library.brown.edu/catalog/b4042716)[\[*archive.org*\]](https://archive.org/details/historicalaccoun00rain/)

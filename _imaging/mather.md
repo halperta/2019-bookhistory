@@ -21,4 +21,6 @@ The fact that Ninigret and Metacomet are named subjects of engravings, along wit
 <!-- https://archive.org/details/earlyhistoryofne00math_1/page/n269 -->
 <iframe src="https://archive.org/details/earlyhistoryofne00math_1/?ui=embed#mode/2up/page/n269" width="675px" height="600px"></iframe>
 
-[Increase Mather, Samuel G. Drake (ed.), *The Early History of New England.* Boston, 1864.](https://search.library.brown.edu/catalog/b3385609)
+# Citation
+
+Increase Mather, Samuel G. Drake (ed.), *The Early History of New England.* Boston, 1864.[\[*Catalogue Entry*\]](https://search.library.brown.edu/catalog/b3385609)[\[*archive.org*\]](https://archive.org/details/earlyhistoryofne00math_1)
