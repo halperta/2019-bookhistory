@@ -15,7 +15,7 @@ In others such as *O fazendeiro do Brazil* or *Tratado sobre la fiebre biliosa y
 
 The urgency of this topic is therefore not anchored in the past; rather, in engaging explicitly with their material and contextual histories, the books presented here carry critically into the current moment, exposing the exploitative mechanisms inherent in otherwise ostensibly impartial subjects.
 
-[Return to the Main Exhibition](/exhibition)
+[Return to the Main Exhibition](/2019-bookhistory/exhibition/)
 
 
 <!-- collection: exhibition
