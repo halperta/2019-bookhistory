@@ -1,6 +1,6 @@
 ---
 title: Imagining and Imaging Colonial Subjects
-permalink: exhibition/imaging
+permalink: /exhibition/imaging
 layout: collection
 collection: imaging
 show_excerpts: yes

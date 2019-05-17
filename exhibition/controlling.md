@@ -1,6 +1,6 @@
 ---
 title: Means of Control
-permalink: exhibition/controlling
+permalink: /exhibition/controlling
 layout: collection
 collection: controlling
 show_excerpts: yes

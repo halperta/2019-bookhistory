@@ -1,6 +1,6 @@
 ---
 title: Objective Texts - Race and Indigeneity in Scientific Books
-permalink: exhibition/objectivity
+permalink: /exhibition/objectivity
 layout: collection
 collection: objectivity
 show_excerpts: yes
