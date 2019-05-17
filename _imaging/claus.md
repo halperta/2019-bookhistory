@@ -16,4 +16,7 @@ of an Indigenous, presumably Kanien’kehá:ka (Mohawk), teacher sitting before
 
 The picture shows the purpose of the primer: to impose European notions of literacy onto a culture with very different means of recordkeeping. Most of its pages are dedicated to Biblical education as well as English/ Mohawk literacy, showing the role of Christian missionaries in colonization. The blend of dress may suggest a deliberate resistance to these changes, an attempt to maintain Kanien’kehá:ka identity under colonial rule.
 
+<!-- https://archive.org/details/primerforuseofmo00clau/page/20 -->
+<iframe src="https://archive.org/details/primerforuseofmo00clau/?ui=embed#mode/2up/page/20" width="675px" height="600px"></iframe>
+
 [Daniel Claus, A primer for the use of the Mohawk children = Waerighwaghsawe iksaongoenwa. Tsiwaondad-derighhonny kaghyadoghsera. London: C. Buckton (1786).](https://search.library.brown.edu/catalog/b5711903)
