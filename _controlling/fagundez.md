@@ -24,4 +24,4 @@ human should be legal when one was captured in a just war, had committed certain
 # Citation
 
 Stephanus Fagundez, *De justitia, & contractibus, & de acquisitione, & translatione dominii, libri septem.*
-Lyon: Laurent Anisson, 1641.[\[*Catalogue Entry.*\]](https://search.library.brown.edu/catalog/b8199765)
+Lyon: Laurent Anisson, 1641.[\[*Catalogue Entry*\]](https://search.library.brown.edu/catalog/b8199765)
