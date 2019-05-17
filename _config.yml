@@ -19,7 +19,7 @@ locale: en-US
 title: "History of the Book in the Americas and Beyond"
 description: "Spring 2019, Brown University"
 baseurl: #/2019-bookhistory # the subpath of your site, e.g. "/blog"
-url: https://halperta.gitbub.io/2019-bookhistory
+url: https://halperta.github.io/2019-bookhistory
 logo: "/images/world_coin.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true

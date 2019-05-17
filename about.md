@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About This Course
+permalink: /about/
 excerpt: "This course explores theoretical and practical issues related to the creation and access of Latin American digital archives."
 modified: 
 <!-- image:
