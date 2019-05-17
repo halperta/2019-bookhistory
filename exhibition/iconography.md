@@ -14,7 +14,7 @@ Rather than choose books with the most obvious racial caricatures that abound du
 
 How do we display these texts without recreating the racist tropes within? Do these texts leave room for “Indigenous survivance” or do they only reflect a European perspective? Who “owns” these texts?
 
-[Return to the Main Exhibition](/exhibition)
+[Return to the Main Exhibition](/2019-bookhistory/exhibition/)
 
 
 <!-- collection: exhibition

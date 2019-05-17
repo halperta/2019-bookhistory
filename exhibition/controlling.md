@@ -12,7 +12,7 @@ Under imperial bureaucracies, written records preserve debates about the legal a
 
 The earliest book in this collection, the *Advertencias para los confessores* (Notices for Confessors) is a handbook for Spanish missionaries. Written in Spanish, Latin, and Nahuatl, the volume seeks to navigate the shifting theology of Catholicism across cultures and languages. Bridging the gap between religion and the law, *De justitia & contractibus [...] libri septem* (Seven Books on Justice and Contracts), contains a theological discussion of – and moral justification for – the slave trade. The final document, a set of letters written by the Bishop of Tucumán (Argentina) upon news of the rebellion of Tupac Amaru in Peru, demonstrates not only how Indigenous groups rebelled against colonial rule, but how factions within Spanish America sought to use this information for their own political purposes. Together, these documents show how religious and legal discourses regulated the lives of Black and Indigenous subjects on which the colonies depended.
 
-[Return to the Main Exhibition](/exhibition)
+[Return to the Main Exhibition](/2019-bookhistory/exhibition/)
 
 
 <!-- collection: exhibition
