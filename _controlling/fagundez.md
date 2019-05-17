@@ -1,5 +1,5 @@
 ---
-title: "Justifying the Slave Trade"
+title: "4.1 Justifying the Slave Trade"
 layout: post
 author: svanrossem
 excerpt: "Stephanus Fagundez, De justitia, & contractibus, & de acquisitione, & translatione dominii, libri septem.
