@@ -14,6 +14,8 @@ Marcus Rainsford’s *An historical account of the black empire of Hayti* marks 
 
 The graphic etchings at the beginning of this book are one of its most striking features. It’s important to note that Rainsford depicts wartime cruelty and death on both sides. However, it’s the French that are the truly barbaric ones — they are depicted as letting bloodhounds attack civilians, while L’Ouverture is given a dignified portrait and his correspondence is reprinted in facsimile. By juxtaposing the poise and courage of the Haitians with the barbarity and depravity of the French, the Historical account flips the stereotypical racial imagery on its head.
 
+[Return to Exhibition](/2019-bookhistory/exhibition/)
+
 <!-- https://archive.org/details/historicalaccoun00rain/page/n25 -->
 <iframe src="https://archive.org/details/historicalaccoun00rain/?ui=embed#mode/2up/page/n25" width="675px" height="600px"></iframe>
 

@@ -17,6 +17,8 @@ the British colonial enterprise in Virginia, advertising the agricul- tural pote
 
 Significantly, de Bry substituted en- gravings for the watercolor paintings of the first edition. The engravings relate not only European interpre- tations of Roanoke and Indigenous culture, but also representations of race as mediated through a trans- atlantic network of printing. The classicized form of the “Coniuerer,” is belied by a frenzied pose that would have evoked pre-existing European associations between Indians and witchcraft. Here, racial difference is predicated on cultural, not physical characteristics. The engravings exot- icize the actions of Indians as they si- multaneously ground their bodies in familiar representations, revealing an environmental understanding of race. This worked in tandem with claims that Indians craved “the knowledge of the Gospel,” presenting them as ideal targets for Christianization.
 
+[Return to Exhibition](/2019-bookhistory/exhibition/)
+
 <!-- https://archive.org/details/briefetruereport00harr/page/n71 -->
 <iframe src="https://archive.org/details/briefetruereport00harr/?ui=embed#mode/2up/page/n71" width="675px" height="600px"></iframe>
 
