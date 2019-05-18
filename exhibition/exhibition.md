@@ -51,6 +51,9 @@ Curated by Hannah Alpert-Abrams, Neil Safier & Stijn van Rossem
 # Explore the Exhibition by Time
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1HvA4m1kTl50k0G3wUaNPE4C9BW5Up5S75BtdHxezwAw&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='750' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+# Explore the Exhibition by Location
+<iframe src="https://uploads.knightlab.com/storymapjs/37e544f9364352d9493e398a614c6502/controlling-colonial-impressions/index.html" frameborder="0" width="100%" height="800"></iframe>
+
 # About This Exhibition
 This exhibition was curated by undergraduate students in HIST 1954J: The History of the Book in the Americas and Beyond (Spring, 2019), taught by Neil Safier, Stijn van Rossem, and Hannah Alpert-Abrams. It was designed as a companion to the Sawyer Seminar on Race and Indigeneity in the Americas. It benefitted from the support of John Carter Brown Library staff Tara Kingsley and Gabriela P. Cantú (programming and outreach), John Minichiello and Donna Dorvick (digitization), and Valerie Andrews, Kim Nusco, and Samara Ayvazian-Hancock (research and reference).
 
